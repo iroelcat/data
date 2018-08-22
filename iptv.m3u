@@ -3,6 +3,26 @@
 http://rr2.dens.tv/s/s49/index1.m3u8
 #EXTINF:-1, s50
 http://rr2.dens.tv/s/s50/index1.m3u8
+#EXTINF:-1, s51
+http://rr2.dens.tv/s/s51/index1.m3u8
+#EXTINF:-1, s52
+http://rr2.dens.tv/s/s52/index1.m3u8
+#EXTINF:-1, s53
+http://rr2.dens.tv/s/s53/index1.m3u8
+#EXTINF:-1, s54
+http://rr2.dens.tv/s/s54/index1.m3u8
+#EXTINF:-1, s55
+http://rr2.dens.tv/s/s55/index1.m3u8
+#EXTINF:-1, s56
+http://rr2.dens.tv/s/s56/index1.m3u8
+#EXTINF:-1, s57
+http://rr2.dens.tv/s/s57/index1.m3u8
+#EXTINF:-1, s58
+http://rr2.dens.tv/s/s58/index1.m3u8
+#EXTINF:-1, s59
+http://rr2.dens.tv/s/s59/index1.m3u8
+#EXTINF:-1, s60
+http://rr2.dens.tv/s/s60/index1.m3u8
 
 #EXTINF:-1, ZEE BIOSKOP
 http://rr2.dens.tv/s/s32/index1.m3u8
@@ -53,6 +73,7 @@ http://rr.dens.tv/h/h19/index1.m3u8
 #EXTINF:-1, FOX SPORTS 2
 http://rr.dens.tv/h/h20/index1.m3u8
 #EXTINF:-1, FOX SPORT 3
+http://rr.dens.tv/h/h21/index1.m3u8
 #EXTINF:-1, NHK WORLD JAPAN
 http://rr.dens.tv/h/h23/index1.m3u8
 #EXTINF:-1, 24
