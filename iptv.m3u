@@ -1,4 +1,21 @@
 #EXTM3U
+#EXTINF:-1, s40
+http://rr2.dens.tv/s/s40/index1.m3u8
+#EXTINF:-1, s41
+http://rr2.dens.tv/s/s41/index1.m3u8
+#EXTINF:-1, s42
+http://rr2.dens.tv/s/s42/index1.m3u8
+#EXTINF:-1, s43
+http://rr2.dens.tv/s/s43/index1.m3u8
+#EXTINF:-1, s44
+http://rr2.dens.tv/s/s44/index1.m3u8
+#EXTINF:-1, s45
+http://rr2.dens.tv/s/s45/index1.m3u8
+#EXTINF:-1, s46
+http://rr2.dens.tv/s/s46/index1.m3u8
+#EXTINF:-1, s47
+http://rr2.dens.tv/s/s47/index1.m3u8
+
 #EXTINF:-1, DA VINCI KIDS
 http://rr.dens.tv/h/h01/index1.m3u8
 #EXTINF:-1, ANIPLUS
@@ -17,10 +34,6 @@ http://rr.dens.tv/h/h07/index1.m3u8
 http://rr.dens.tv/h/h08/index1.m3u8
 #EXTINF:-1, AXN
 http://rr.dens.tv/h/h09/index1.m3u8
-#EXTINF:-1, 010
-http://rr.dens.tv/h/h010/index1.m3u8
-
-
 #EXTINF:-1, NAT GEO
 http://rr.dens.tv/h/h11/index1.m3u8
 #EXTINF:-1, NAT GEO WILD
@@ -46,7 +59,6 @@ http://rr.dens.tv/h/h23/index1.m3u8
 http://rr.dens.tv/h/h24/index1.m3u8
 #EXTINF:-1, 25
 http://rr.dens.tv/h/h25/index1.m3u8
-
 
 #EXTINF:-1, TVRI sport HD
 http://rr2.dens.tv/s/s48/index1.m3u8
