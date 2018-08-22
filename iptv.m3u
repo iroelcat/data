@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1, BEIN SPORTS 1 HD
+#EXTINF:0, BEIN SPORTS 1 HD
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/chunklist_b1668000.m3u8
-#EXTINF:-1, BEIN SPORTS 2 HD
+#EXTINF:0, BEIN SPORTS 2 HD
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:14a27c358043/chunklist_b1128000.m3u8
-#EXTINF:-1, BEIN SPORTS 3 HD
+#EXTINF:0, BEIN SPORTS 3 HD
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fddbadb5b544/chunklist_b1668000.m3u8
-#EXTINF:-1, SONY TEN 2 HD
+#EXTINF:0, SONY TEN 2 HD
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8
-#EXTINF:-1, REAL MADRID TV
+#EXTINF:0, REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
-#EXTINF:-1, NATGEO HD
+#EXTINF:0, NATGEO HD
 http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/chunklist_w528182195_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTd1TjhpclRZYmc0a3JxQ2xULWZ1bXc1OTdueXNpUUxUZWRNdzJfM0hYcThYTWtQR253X2xzQ3hxWng3T0hBY2M=.m3u8
-#EXTINF:-1, NATGEO WILD
+#EXTINF:0, NATGEO WILD
 http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklist_w1434079452_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTlIQnp4TmV1VktDRjl0U2c4RUpCRFFvdUpyaDRNeUhaam1rTUpHZHE4VWg0QVBBRmQ5LTZ5bEpxVGgwM3BvcGw=.m3u8
-#EXTINF:-1, BIZNET KIDS HD
+#EXTINF:0, BIZNET KIDS HD
 http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1577271143_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
-#EXTINF:-1, Kids Diamond
+#EXTINF:0, Kids Diamond
 http://119.235.249.60:1935/kids/live/playlist.m3u8
