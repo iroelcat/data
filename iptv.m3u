@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, ccc
-http://rr.dens.tv/h/h10/index1.m3u8
 #EXTINF:-1, SONY ONE
 http://rr.dens.tv/h/h13/index1.m3u8
 #EXTINF:-1, FOX MOVIES
@@ -8,13 +6,25 @@ http://rr.dens.tv/h/h14/index1.m3u8
 #EXTINF:-1, FOX MOVIES ACTION
 http://rr.dens.tv/h/h15/index1.m3u8
 
-#EXTINF:-1, NATGEO HD
+#EXTINF:-1, dens16
+http://rr.dens.tv/h/h16/index1.m3u8
+#EXTINF:-1, dens17
+http://rr.dens.tv/h/h17/index1.m3u8
+#EXTINF:-1, dens18
+http://rr.dens.tv/h/h18/index1.m3u8
+#EXTINF:-1, dens19
+http://rr.dens.tv/h/h19/index1.m3u8
+#EXTINF:-1, dens20
+http://rr.dens.tv/h/h20/index1.m3u8
+
+
+#EXTINF:-1, NAT GEO HD
 http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/chunklist_w528182195_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTd1TjhpclRZYmc0a3JxQ2xULWZ1bXc1OTdueXNpUUxUZWRNdzJfM0hYcThYTWtQR253X2xzQ3hxWng3T0hBY2M=.m3u8
-#EXTINF:-1, NATGEO
+#EXTINF:-1, NAT GEO
 http://rr.dens.tv/h/h11/index1.m3u8
 #EXTINF:-1, NAT GEO WILD HD
 http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklist_w1434079452_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTlIQnp4TmV1VktDRjl0U2c4RUpCRFFvdUpyaDRNeUhaam1rTUpHZHE4VWg0QVBBRmQ5LTZ5bEpxVGgwM3BvcGw=.m3u8
-#EXTINF:-1, NATGEO WILD
+#EXTINF:-1, NAT GEO WILD
 http://rr.dens.tv/h/h12/index1.m3u8
 #EXTINF:-1, BIZNET KIDS HD
 http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1577271143_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
