@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1, DA VINCI KIDS
+http://rr.dens.tv/h/h01/index1.m3u8
+#EXTINF:-1, ANIPLUS
+http://rr.dens.tv/h/h02/index1.m3u8
+#EXTINF:-1, FOX LIFE
+http://rr.dens.tv/h/h03/index1.m3u8
+#EXTINF:-1, FOX
+http://rr.dens.tv/h/h04/index1.m3u8
+#EXTINF:-1, 05
+http://rr.dens.tv/h/h05/index1.m3u8
+#EXTINF:-1, 06
+http://rr.dens.tv/h/h06/index1.m3u8
+#EXTINF:-1, 07
+http://rr.dens.tv/h/h07/index1.m3u8
+#EXTINF:-1, 08
+http://rr.dens.tv/h/h08/index1.m3u8
+#EXTINF:-1, 09
+http://rr.dens.tv/h/h09/index1.m3u8
+#EXTINF:-1, 10
+http://rr.dens.tv/h/h10/index1.m3u8
+
+
 #EXTINF:-1, NAT GEO
 http://rr.dens.tv/h/h11/index1.m3u8
 #EXTINF:-1, NAT GEO WILD
@@ -24,26 +46,7 @@ http://rr.dens.tv/h/h23/index1.m3u8
 http://rr.dens.tv/h/h24/index1.m3u8
 #EXTINF:-1, 25
 http://rr.dens.tv/h/h25/index1.m3u8
-#EXTINF:-1, 1
-http://rr.dens.tv/h/h1/index1.m3u8
-#EXTINF:-1, 01
-http://rr.dens.tv/h/h01/index1.m3u8
-#EXTINF:-1, 2
-http://rr.dens.tv/h/h2/index1.m3u8
-#EXTINF:-1, 02
-http://rr.dens.tv/h/h02/index1.m3u8
-#EXTINF:-1, 3
-http://rr.dens.tv/h/h3/index1.m3u8
-#EXTINF:-1, 03
-http://rr.dens.tv/h/h03/index1.m3u8
-#EXTINF:-1, 4
-http://rr.dens.tv/h/h4/index1.m3u8
-#EXTINF:-1, 04
-http://rr.dens.tv/h/h04/index1.m3u8
-#EXTINF:-1, 5
-http://rr.dens.tv/h/h5/index1.m3u8
-#EXTINF:-1, 05
-http://rr.dens.tv/h/h05/index1.m3u8
+
 
 #EXTINF:-1, TVRI sport HD
 http://rr2.dens.tv/s/s48/index1.m3u8
@@ -55,10 +58,6 @@ http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/chunklist_w528
 http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklist_w1434079452_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTlIQnp4TmV1VktDRjl0U2c4RUpCRFFvdUpyaDRNeUhaam1rTUpHZHE4VWg0QVBBRmQ5LTZ5bEpxVGgwM3BvcGw=.m3u8
 #EXTINF:-1, BIZNET KIDS HD
 http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1577271143_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
-
-#EXTINF:-1, ANIPLUS
-http://210.210.155.35:80/session/dcc5d1d8-a16d-11e8-8397-c81f66f89318/uq2663/h/h02/02.m3u8
-
 
 #EXTINF:-1, SONY TEN 2 HD
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8
