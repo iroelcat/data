@@ -9,16 +9,16 @@ http://rr.dens.tv/h/h03/index1.m3u8
 http://rr.dens.tv/h/h04/index1.m3u8
 #EXTINF:-1, 05
 http://rr.dens.tv/h/h05/index1.m3u8
-#EXTINF:-1, 06
+#EXTINF:-1, SONY CHANNEL
 http://rr.dens.tv/h/h06/index1.m3u8
-#EXTINF:-1, 07
+#EXTINF:-1, KIX
 http://rr.dens.tv/h/h07/index1.m3u8
-#EXTINF:-1, 08
+#EXTINF:-1, K+
 http://rr.dens.tv/h/h08/index1.m3u8
-#EXTINF:-1, 09
+#EXTINF:-1, AXN
 http://rr.dens.tv/h/h09/index1.m3u8
-#EXTINF:-1, 10
-http://rr.dens.tv/h/h10/index1.m3u8
+#EXTINF:-1, 010
+http://rr.dens.tv/h/h010/index1.m3u8
 
 
 #EXTINF:-1, NAT GEO
