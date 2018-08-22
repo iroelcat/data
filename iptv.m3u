@@ -1,62 +1,9 @@
 #EXTM3U
-#EXTINF:-1, s01
-http://rr2.dens.tv/s/s01/index1.m3u8
-#EXTINF:-1, TVONE
-http://rr2.dens.tv/s/s02/index1.m3u8
-#EXTINF:-1, s03
-http://rr2.dens.tv/s/s03/index1.m3u8
-#EXTINF:-1, INDOSIAR
-http://rr2.dens.tv/s/s04/index1.m3u8
-#EXTINF:-1, TRANSTV
-http://rr2.dens.tv/s/s05/index1.m3u8
-#EXTINF:-1, TRANS7
-http://rr2.dens.tv/s/s06/index1.m3u8
-#EXTINF:-1, ANTV
-http://rr2.dens.tv/s/s07/index1.m3u8
-#EXTINF:-1, NET.
-http://rr2.dens.tv/s/s08/index1.m3u8
-#EXTINF:-1, KOMPASTV
-http://rr2.dens.tv/s/s09/index1.m3u8
-#EXTINF:-1, ELSHINTA
-http://rr2.dens.tv/s/s10/index1.m3u8
-#EXTINF:-1, s11
-http://rr2.dens.tv/s/s11/index1.m3u8
-#EXTINF:-1, RTV
-http://rr2.dens.tv/s/s12/index1.m3u8
-#EXTINF:-1, DAAI TV
-http://rr2.dens.tv/s/s13/index1.m3u8
-#EXTINF:-1, RODJA TV
-http://rr2.dens.tv/s/s14/index1.m3u8
-#EXTINF:-1, s15
-http://rr2.dens.tv/s/s15/index1.m3u8
-#EXTINF:-1, s16
-http://rr2.dens.tv/s/s16/index1.m3u8
-#EXTINF:-1, s17
-http://rr2.dens.tv/s/s17/index1.m3u8
-#EXTINF:-1, s18
-http://rr2.dens.tv/s/s18/index1.m3u8
-#EXTINF:-1, s19
-http://rr2.dens.tv/s/s19/index1.m3u8
-#EXTINF:-1, s20
-http://rr2.dens.tv/s/s20/index1.m3u8
-#EXTINF:-1, s21
-http://rr2.dens.tv/s/s21/index1.m3u8
-#EXTINF:-1, s22
-http://rr2.dens.tv/s/s22/index1.m3u8
-#EXTINF:-1, s23
-http://rr2.dens.tv/s/s23/index1.m3u8
-#EXTINF:-1, s24
-http://rr2.dens.tv/s/s24/index1.m3u8
-#EXTINF:-1, s25
-http://rr2.dens.tv/s/s25/index1.m3u8
-#EXTINF:-1, s26
-http://rr2.dens.tv/s/s26/index1.m3u8
-#EXTINF:-1, s27
-http://rr2.dens.tv/s/s27/index1.m3u8
-#EXTINF:-1, s28
-http://rr2.dens.tv/s/s28/index1.m3u8
-#EXTINF:-1, s29
-http://rr2.dens.tv/s/s29/index1.m3u8
+#EXTINF:-1, s49
+http://rr2.dens.tv/s/s49/index1.m3u8
+#EXTINF:-1, s50
+http://rr2.dens.tv/s/s50/index1.m3u8
+
 #EXTINF:-1, ZEE BIOSKOP
 http://rr2.dens.tv/s/s32/index1.m3u8
 #EXTINF:-1, s33
