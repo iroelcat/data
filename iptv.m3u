@@ -15,6 +15,8 @@ http://rr.dens.tv/h/h18/index1.m3u8
 http://rr.dens.tv/h/h19/index1.m3u8
 #EXTINF:-1, FOX SPORTS 2
 http://rr.dens.tv/h/h20/index1.m3u8
+#EXTINF:-1, FOX SPORT 3
+http://rr.dens.tv/h/h26/index1.m3u8
 #EXTINF:-1, 21
 http://rr.dens.tv/h/h21/index1.m3u8
 #EXTINF:-1, 22
@@ -36,16 +38,11 @@ http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklis
 http://rr.dens.tv/h/h12/index1.m3u8
 #EXTINF:-1, BIZNET KIDS HD
 http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1577271143_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
-#EXTINF:-1, ANIMAX
-http://210.210.155.35:80/session/ea9ece50-a16c-11e8-8e07-c81f66f89318/uq2663/h/h18/02.m3u8
+
 #EXTINF:-1, ANIPLUS
 http://210.210.155.35:80/session/dcc5d1d8-a16d-11e8-8397-c81f66f89318/uq2663/h/h02/02.m3u8
-#EXTINF:-1, FOX SPORT
-http://rr.dens.tv/h/h19/index1.m3u8
-#EXTINF:-1, FOX SPORT 2
-http://rr.dens.tv/h/h20/index1.m3u8
-#EXTINF:-1, FOX SPORT 3
-http://rr.dens.tv/h/h26/index1.m3u8
+
+
 #EXTINF:-1, SONY TEN 2 HD
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8
 #EXTINF:-1, REAL MADRID TV
