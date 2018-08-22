@@ -1,38 +1,38 @@
 #EXTM3U
 #EXTINF:-1, s01
 http://rr2.dens.tv/s/s01/index1.m3u8
-#EXTINF:-1, s02
+#EXTINF:-1, TVONE
 http://rr2.dens.tv/s/s02/index1.m3u8
 #EXTINF:-1, s03
 http://rr2.dens.tv/s/s03/index1.m3u8
-#EXTINF:-1, s04
+#EXTINF:-1, INDOSIAR
 http://rr2.dens.tv/s/s04/index1.m3u8
-#EXTINF:-1, s05
+#EXTINF:-1, TRANSTV
 http://rr2.dens.tv/s/s05/index1.m3u8
-#EXTINF:-1, s06
+#EXTINF:-1, TRANS7
 http://rr2.dens.tv/s/s06/index1.m3u8
-#EXTINF:-1, s07
+#EXTINF:-1, ANTV
 http://rr2.dens.tv/s/s07/index1.m3u8
-#EXTINF:-1, s08
+#EXTINF:-1, NET.
 http://rr2.dens.tv/s/s08/index1.m3u8
-#EXTINF:-1, s09
+#EXTINF:-1, KOMPASTV
 http://rr2.dens.tv/s/s09/index1.m3u8
-#EXTINF:-1, s10
+#EXTINF:-1, ELSHINTA
 http://rr2.dens.tv/s/s10/index1.m3u8
 #EXTINF:-1, s11
 http://rr2.dens.tv/s/s11/index1.m3u8
-#EXTINF:-1, s12
+#EXTINF:-1, RTV
 http://rr2.dens.tv/s/s12/index1.m3u8
-#EXTINF:-1, s13
+#EXTINF:-1, DAAI TV
 http://rr2.dens.tv/s/s13/index1.m3u8
-#EXTINF:-1, s14
+#EXTINF:-1, RODJA TV
 http://rr2.dens.tv/s/s14/index1.m3u8
 #EXTINF:-1, s15
 http://rr2.dens.tv/s/s15/index1.m3u8
 #EXTINF:-1, s16
 http://rr2.dens.tv/s/s16/index1.m3u8
 #EXTINF:-1, s17
-http://rr2.dens.tv/s/s17/index17.m3u8
+http://rr2.dens.tv/s/s17/index1.m3u8
 #EXTINF:-1, s18
 http://rr2.dens.tv/s/s18/index1.m3u8
 #EXTINF:-1, s19
