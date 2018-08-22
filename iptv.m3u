@@ -20,17 +20,22 @@ http://rr.dens.tv/h/h19/index1.m3u8
 #EXTINF:-1, FOX SPORTS 2
 http://rr.dens.tv/h/h20/index1.m3u8
 #EXTINF:-1, FOX SPORT 3
-http://rr.dens.tv/h/h26/index1.m3u8
-#EXTINF:-1, 21
-http://rr.dens.tv/h/h21/index1.m3u8
-#EXTINF:-1, 22
-http://rr.dens.tv/h/h22/index1.m3u8
-#EXTINF:-1, 23
+#EXTINF:-1, NHK WORLD JAPAN
 http://rr.dens.tv/h/h23/index1.m3u8
 #EXTINF:-1, 24
 http://rr.dens.tv/h/h24/index1.m3u8
 #EXTINF:-1, 25
 http://rr.dens.tv/h/h25/index1.m3u8
+#EXTINF:-1, 26
+http://rr.dens.tv/h/h26/index1.m3u8
+#EXTINF:-1, 27
+http://rr.dens.tv/h/h27/index1.m3u8
+#EXTINF:-1, 28
+http://rr.dens.tv/h/h28/index1.m3u8
+#EXTINF:-1, 29
+http://rr.dens.tv/h/h29/index1.m3u8
+#EXTINF:-1, 30
+http://rr.dens.tv/h/h30/index1.m3u8
 
 #EXTINF:-1, TVRI sport HD
 http://rr2.dens.tv/s/s48/index1.m3u8
