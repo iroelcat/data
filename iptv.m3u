@@ -1,20 +1,29 @@
 #EXTM3U
-#EXTINF:-1, s40
-http://rr2.dens.tv/s/s40/index1.m3u8
-#EXTINF:-1, s41
+#EXTINF:-1, s30
+http://rr2.dens.tv/s/s30/index1.m3u8
+#EXTINF:-1, s31
+http://rr2.dens.tv/s/s31/index1.m3u8
+#EXTINF:-1, s32
+http://rr2.dens.tv/s/s32/index1.m3u8
+#EXTINF:-1, s33
+http://rr2.dens.tv/s/s33/index1.m3u8
+#EXTINF:-1, s34
+http://rr2.dens.tv/s/s34/index1.m3u8
+#EXTINF:-1, s35
+http://rr2.dens.tv/s/s35/index1.m3u8
+#EXTINF:-1, s36
+http://rr2.dens.tv/s/s36/index1.m3u8
+#EXTINF:-1, s37
+http://rr2.dens.tv/s/s37/index1.m3u8
+#EXTINF:-1, s38
+http://rr2.dens.tv/s/s38/index1.m3u8
+#EXTINF:-1, s39
+http://rr2.dens.tv/s/s39/index1.m3u8
+#EXTINF:-1, U CHANNEL
 http://rr2.dens.tv/s/s41/index1.m3u8
-#EXTINF:-1, s42
-http://rr2.dens.tv/s/s42/index1.m3u8
-#EXTINF:-1, s43
-http://rr2.dens.tv/s/s43/index1.m3u8
-#EXTINF:-1, s44
-http://rr2.dens.tv/s/s44/index1.m3u8
-#EXTINF:-1, s45
-http://rr2.dens.tv/s/s45/index1.m3u8
-#EXTINF:-1, s46
+#EXTINF:-1, IN TV
 http://rr2.dens.tv/s/s46/index1.m3u8
-#EXTINF:-1, s47
-http://rr2.dens.tv/s/s47/index1.m3u8
+
 
 #EXTINF:-1, DA VINCI KIDS
 http://rr.dens.tv/h/h01/index1.m3u8
