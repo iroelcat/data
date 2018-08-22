@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1,[xxx]CENTOXCENTO TV
+http://195.230.115.18:65080/play/a8104/index.m3u8
+#EXTINF:-1,[xxx]DUSK TV
+http://195.230.115.18:65080/play/a8101/index.m3u8
+#EXTINF:-1,[xxx]LIVECHANNEL
+http://195.230.115.18:65080/play/a8106/index.m3u8
+#EXTINF:-1,[xxx]PASSIONXXX
+http://195.230.115.18:65080/play/a8105/index.m3u8
+#EXTINF:-1,[xxx]PINK O TV
+http://195.230.115.18:65080/play/a8107/index.m3u8
+#EXTINF:-1,[xxx]SCT
+http://195.230.115.18:65080/play/a8102/index.m3u8
+#EXTINF:-1,[xxx]***TOSENSO
+http://195.230.115.18:65080/play/a8100/index.m3u8
 
 #EXTINF:-1, ZEE BIOSKOP
 http://rr2.dens.tv/s/s32/index1.m3u8
