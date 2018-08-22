@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, NAT GEO
+http://rr.dens.tv/h/h11/index1.m3u8
+#EXTINF:-1, NAT GEO WILD
+http://rr.dens.tv/h/h12/index1.m3u8
 #EXTINF:-1, SONY ONE
 http://rr.dens.tv/h/h13/index1.m3u8
 #EXTINF:-1, FOX MOVIES
@@ -28,14 +32,14 @@ http://rr.dens.tv/h/h24/index1.m3u8
 #EXTINF:-1, 25
 http://rr.dens.tv/h/h25/index1.m3u8
 
+#EXTINF:-1, TVRI sport HD
+http://rr2.dens.tv/s/s48/index1.m3u8
+
 #EXTINF:-1, NAT GEO HD
 http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/chunklist_w528182195_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTd1TjhpclRZYmc0a3JxQ2xULWZ1bXc1OTdueXNpUUxUZWRNdzJfM0hYcThYTWtQR253X2xzQ3hxWng3T0hBY2M=.m3u8
-#EXTINF:-1, NAT GEO
-http://rr.dens.tv/h/h11/index1.m3u8
+
 #EXTINF:-1, NAT GEO WILD HD
 http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklist_w1434079452_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTlIQnp4TmV1VktDRjl0U2c4RUpCRFFvdUpyaDRNeUhaam1rTUpHZHE4VWg0QVBBRmQ5LTZ5bEpxVGgwM3BvcGw=.m3u8
-#EXTINF:-1, NAT GEO WILD
-http://rr.dens.tv/h/h12/index1.m3u8
 #EXTINF:-1, BIZNET KIDS HD
 http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1577271143_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
 
@@ -47,8 +51,7 @@ http://210.210.155.35:80/session/dcc5d1d8-a16d-11e8-8397-c81f66f89318/uq2663/h/h
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8
 #EXTINF:-1, REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, TVRI sport HD
-http://rr2.dens.tv/s/s48/index1.m3u8
+
 #EXTINF:-1, Kids Diamond
 http://119.235.249.60:1935/kids/live/playlist.m3u8
 
