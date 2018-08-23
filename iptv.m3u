@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, NG WILD
+http://210.210.155.35/uq2663/h/h12/index.m3u8
 
 #EXTINF:-1, beIN SPORTS 1
 http://api.useetv.com/telin/live/78a1bc703242/index.m3u8?stime=20180823020000&etime=20180823060000&encoded=0a3b17c9554839c32c4ec
