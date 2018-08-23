@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0, BEIN 1 HD
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/chunklist_b1668000.m3u8
-#EXTINF:0, BEIN 2
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:14a27c358043/chunklist_b1668000.m3u8
+#EXTINF:0, BEIN 2 HD
+http://180.250.169.33:80/live/livetv-mbr/amlst:14a27c358043/chunklist_b1668000.m3u8
 #EXTINF:0, BEIN 3 HD
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fddbadb5b544/chunklist_b1668000.m3u8
 #EXTINF:0, SONY TEN 2 HD
