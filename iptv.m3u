@@ -7,13 +7,13 @@ http://210.210.155.35/uq2663/h/h11/01.m3u8
 http://210.210.155.35/uq2663/h/h12/01.m3u8
 
 #EXTINF:-1, beIN SPORTS 1
-http://api.useetv.com/telin/live/78a1bc703242/index.m3u8
+http://api.useetv.com/telin/live/78a1bc703242/index.m3u8?stime=20180824160000&etime=20180824200000&encoded=0172283254e0f6c5f8df5
 
 #EXTINF:-1, beIN SPORTS 2
 http://api.useetv.com/telin/live/14a27c358043/index.m3u8?stime=20180824160000&etime=20180824200000&encoded=0dd83873b6928480906bf
 
 #EXTINF:-1, beIN SPORTS 3
-http://api.useetv.com/telin/live/fddbadb5b544/index.m3u8
+http://api.useetv.com/telin/live/fddbadb5b544/index.m3u8?stime=20180824160000&etime=20180824200000&encoded=0a49cb78839916eae957c
 
 #EXTINF:-1, SONY TEN 2 HD 
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8 
