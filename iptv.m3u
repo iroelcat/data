@@ -2,6 +2,7 @@
 
 #EXTINF:-1, NATGEO
 http://210.210.155.35/uq2663/h/h11/01.m3u8
+
 #EXTINF:-1, NATGEO WILD
 http://210.210.155.35/uq2663/h/h12/01.m3u8
 
@@ -12,7 +13,7 @@ http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8
 http://api.useetv.com/telin/live/78a1bc703242/index.m3u8
 
 #EXTINF:-1, beIN SPORTS 2
-http://api.useetv.com/telin/live/fa161aa74311/index.m3u8
+http://api.useetv.com/telin/live/14a27c358043/index.m3u8
 
 #EXTINF:-1, beIN SPORTS 3
 http://api.useetv.com/telin/live/fddbadb5b544/index.m3u8
