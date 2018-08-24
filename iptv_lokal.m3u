@@ -1,0 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1, METRO TV
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:-1, METRO TV
+http://210.210.155.35/qwr9ew/s/s49/01.m3u8
+#EXTINF:-1, SCTV
+http://210.210.155.35/uq2663/h/h27/01.m3u8
+#EXTINF:-1, SCTV
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1, TVONE
+http://210.210.155.35/qwr9ew/s/s02/01.m3u8
+#EXTINF:-1, INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1, TRANSTV
+http://210.210.155.35/qwr9ew/s/s05/01.m3u8
+#EXTINF:-1, TRANS7
+http://210.210.155.35/qwr9ew/s/s06/01.m3u8
+#EXTINF:-1, ANTV
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1, NET.
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1, KOMPASTV
+http://210.210.155.35/qwr9ew/s/s09/01.m3u8
+#EXTINF:-1, 11
+http://210.210.155.35/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1, RTV
+http://210.210.155.35/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:-1, MNC TV
+http://lihattv.com/?play=43657
+#EXTINF:0 group-title="Indonesia", GTV
+http://185.21.216.166:8554/whale/globaltv/01.m3u8
+#EXTINF:0 group-title="Indonesia", iNews
+http://185.21.216.166:8554/whale/inewstv/01.m3u8
