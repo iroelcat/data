@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,PLAYBOY TV
+http://iptvlokal.stream:8080/live/55555/55555/623.ts
+
 #EXTINF:-1, NATGEO
 http://210.210.155.35/uq2663/h/h11/01.m3u8
 
@@ -11,8 +14,6 @@ http://api.useetv.com/telin/live/78a1bc703242/index.m3u8
 
 #EXTINF:-1, BEIN SPORTS 2
 http://api.useetv.com/telin/live/14a27c358043/index.m3u8
-#EXTINF:-1, B1
-http://indotv.live/?ch=bein2
 
 #EXTINF:-1, BEIN SPORTS 3
 http://api.useetv.com/telin/live/fddbadb5b544/index.m3u8
