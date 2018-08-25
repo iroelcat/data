@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,TRANS7
-http://id2.indostreamingtv.com/live/tv77/index.m3u8
-
-#EXTINF:-1,76
-http://id2.indostreamingtv.com/live/tv76/index.m3u8
-
 #EXTINF:-1, NATGEO
 http://210.210.155.35/uq2663/h/h11/01.m3u8
 
@@ -13,15 +7,15 @@ http://210.210.155.35/uq2663/h/h11/01.m3u8
 http://210.210.155.35/uq2663/h/h12/01.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1
-http://api.useetv.com/telin/live/78a1bc703242/index.m3u8?
+http://api.useetv.com/telin/live/78a1bc703242/index.m3u8
 
 #EXTINF:-1, BEIN SPORTS 2
-http://api.useetv.com/telin/live/14a27c358043/index.m3u8?
+http://api.useetv.com/telin/live/14a27c358043/index.m3u8
 #EXTINF:-1, B1
 http://indotv.live/?ch=bein2
 
 #EXTINF:-1, BEIN SPORTS 3
-http://api.useetv.com/telin/live/fddbadb5b544/index.m3u8?
+http://api.useetv.com/telin/live/fddbadb5b544/index.m3u8
 
 #EXTINF:-1, SONY TEN 2
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8 
