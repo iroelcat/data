@@ -1,7 +1,7 @@
 #EXTM3U 
  
 #EXTINF:-1, BE 2
-http://api.useetv.com/telin/live/14a27c358043/index.m3u8?stime=20180825140000&etime=20180825180000&encoded=0ba0005b65458b7abfdb9 
+http://api.useetv.com/telin/live/14a27c358043/index.m3u8?encoded=0ba0005b65458b7abfdb9 
   
 #EXTINF:-1, NATGEO 
 http://210.210.155.35/uq2663/h/h11/01.m3u8 
