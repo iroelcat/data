@@ -6,17 +6,23 @@ https://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:-1, TV2
 https://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:-1, 003
+#EXTINF:-1, OKEY
 https://rtm-live.glueapi.io/smil:rtmch003/chunklist_b1064000_sleng.m3u8
-
-#EXTINF:-1, 004
-https://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1064000_sleng.m3u8
-
-#EXTINF:-1, 005
-https://rtm-live.glueapi.io/smil:rtmch005/chunklist_b1064000_sleng.m3u8
 
 #EXTINF:-1, 1NEWS
 https://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:-1, 007
+https://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1, 008
+https://rtm-live.glueapi.io/smil:rtmch008/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1, 009
+https://rtm-live.glueapi.io/smil:rtmch009/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1, 010
+https://rtm-live.glueapi.io/smil:rtmch010/chunklist_b1064000_sleng.m3u8
 
 #EXTINF:-1, NATGEO 
 http://210.210.155.35/uq2663/h/h11/01.m3u8 
