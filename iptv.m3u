@@ -7,7 +7,7 @@ http://api.useetv.com/telin/live/14a27c358043/index.m3u8?key=5sas/7vPf9OsBoGRGaD
 #EXTINF:0, BE3
 http://api.useetv.com/telin/live/fddbadb5b544/index.m3u8?key=5sas/7vPf9OsBoGRGaDg5t8zEmATgy+xfuWGYjEkCJsxdvcEsjMwfeVeD/e3mFBi
 #EXTINF:0, PRAMBORS
-http://api.useetv.com/jhos/pramborstv/0/playlist.m3u8?key=5sas/7vPf9OsBoGRGaDg5t8zEmATgy+xfuWGYjEkCJsxdvcEsjMwfeVeD/e3mFBi
+http://http://118.97.167.19/jhos/pramborstv/0/playlist.m3u8?
 
 #EXTINF:0, RTV
 http://118.97.167.8/jhos/rtv.m3u8?
