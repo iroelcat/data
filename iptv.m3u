@@ -6,6 +6,13 @@ https://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:-1, RTM 2
 https://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 
+#EXTINF:-1, TV Okey
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1, ASTRO ARENA HD
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:-1, ASTRO GO SHOP
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_04.m3u8
+
 #EXTINF:-1, NATGEO 
 http://210.210.155.35/uq2663/h/h11/01.m3u8 
  
