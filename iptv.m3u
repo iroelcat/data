@@ -1,77 +1,10 @@
 #EXTM3U 
 
-#EXTINF:-1,BABY TV
-http://iptvhit.com/plus/es/play?92120
-#EXTINF:-1,BARCA TV
-http://iptvhit.com/plus/es/play?92076
-#EXTINF:-1,beIN LA Liga FHD
-http://iptvhit.com/plus/es/play?92059
-#EXTINF:-1,BeiN La Liga Max 1
-http://iptvhit.com/plus/es/play?92057
-#EXTINF:-1,BeiN La Liga Max 1 FHD
-http://iptvhit.com/plus/es/play?92056
-#EXTINF:-1,BeiN La Liga SD
-http://iptvhit.com/plus/es/play?92061
-#EXTINF:-1,beIN Laliga 1 HD Backup
-http://iptvhit.com/plus/es/play?92055
-#EXTINF:-1,BeiN Laliga FHD
-http://iptvhit.com/plus/es/play?92058
-#EXTINF:-1,beIN LaLiga Max 2
-http://iptvhit.com/plus/es/play?92054
-#EXTINF:-1,beIN LaLiga Max 2 FHD
-http://iptvhit.com/plus/es/play?92053
-#EXTINF:-1,BeiN LaLiga Max 3
-http://iptvhit.com/plus/es/play?92052
-#EXTINF:-1,BeiN LaLiga Max 4
-http://iptvhit.com/plus/es/play?92051
-#EXTINF:-1,BeiN LaLiga Max 5
-http://iptvhit.com/plus/es/play?92050
-#EXTINF:-1,BeiN LaLiga Max 6
-http://iptvhit.com/plus/es/play?92049
-#EXTINF:-1,BeiN Laliga Max 7
-http://iptvhit.com/plus/es/play?92048
-#EXTINF:-1,Bein Liga HD
-http://iptvhit.com/plus/es/play?92060
-#EXTINF:-1,Bein Max 4
-http://iptvhit.com/plus/es/play?92032
-#EXTINF:-1,Bein Max 5
-http://iptvhit.com/plus/es/play?92031
-#EXTINF:-1,Bein Max 6
-http://iptvhit.com/plus/es/play?92030
-#EXTINF:-1,Bein Max 7
-http://iptvhit.com/plus/es/play?92029
-#EXTINF:-1,Bein Max 8
-http://iptvhit.com/plus/es/play?92028
-#EXTINF:-1,BEIN SPORT MAX 1 SD
-http://iptvhit.com/plus/es/play?92042
-#EXTINF:-1,BEIN SPORT MAX 10 SD
-http://iptvhit.com/plus/es/play?92033
-#EXTINF:-1,BEIN SPORT MAX 2 SD
-http://iptvhit.com/plus/es/play?92041
-#EXTINF:-1,BEIN SPORT MAX 3 SD
-http://iptvhit.com/plus/es/play?92040
-#EXTINF:-1,BEIN SPORT MAX 4 SD
-http://iptvhit.com/plus/es/play?92039
-#EXTINF:-1,BEIN SPORT MAX 5 SD
-http://iptvhit.com/plus/es/play?92038
-#EXTINF:-1,BEIN SPORT MAX 6 SD
-http://iptvhit.com/plus/es/play?92037
-#EXTINF:-1,BEIN SPORT MAX 7 SD
-http://iptvhit.com/plus/es/play?92036
-#EXTINF:-1,BEIN SPORT MAX 8 SD
-http://iptvhit.com/plus/es/play?92035
-#EXTINF:-1,BEIN SPORT MAX 9 SD
-http://iptvhit.com/plus/es/play?92034
-#EXTINF:-1,BeiN Sports Max 1
-http://iptvhit.com/plus/es/play?92047
-#EXTINF:-1,BeiN Sports Max 1 FHD
-http://iptvhit.com/plus/es/play?92046
-#EXTINF:-1,BeiN Sports Max 2
-http://iptvhit.com/plus/es/play?92045
-#EXTINF:-1,BeiN Sports Max 2 FHD
-http://iptvhit.com/plus/es/play?92044
-#EXTINF:-1,BeiN Sports Max 3
-http://iptvhit.com/plus/es/play?92043
+#EXTINF:0, SAKURA
+http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
+
+#EXTINF:0, B
+http://210.210.155.35/session/873789ac-6d81-11e8-83d2-b82a72d63267/uq2663/h/h18/02.m3u8
 
 #EXTINF:0, RTM 1
 https://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
