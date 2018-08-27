@@ -1,5 +1,10 @@
 #EXTM3U 
 
+#EXTINF:-1,Nick Jr
+http://www.iptvmexico.xyz/pony2/222.m3u8
+#EXTINF:-1,NickToons
+http://www.iptvmexico.xyz/pony2/310.m3u8
+
 #EXTINF:0, BE1
 http://api.useetv.com/telin/live/78a1bc703242/index.m3u8?key=5sas/7vPf9OsBoGRGaDg5t8zEmATgy+xfuWGYjEkCJsxdvcEsjMwfeVeD/e3mFBi
 #EXTINF:0, BE2
