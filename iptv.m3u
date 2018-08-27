@@ -6,11 +6,11 @@ http://www.iptvmexico.xyz/pony2/222.m3u8
 http://www.iptvmexico.xyz/pony2/310.m3u8
 
 #EXTINF:0, BE1
-http://api.useetv.com/telin/live/78a1bc703242/index.m3u8?key=5sas/7vPf9OsBoGRGaDg5t8zEmATgy+xfuWGYjEkCJsxdvcEsjMwfeVeD/e3mFBi
+http://api.useetv.com/telin/live/78a1bc703242/chunks.m3u8
 #EXTINF:0, BE2
-http://api.useetv.com/telin/live/14a27c358043/index.m3u8?key=5sas/7vPf9OsBoGRGaDg5t8zEmATgy+xfuWGYjEkCJsxdvcEsjMwfeVeD/e3mFBi
+http://api.useetv.com/telin/live/14a27c358043/chunklist.m3u8
 #EXTINF:0, BE3
-http://api.useetv.com/telin/live/fddbadb5b544/index.m3u8?key=5sas/7vPf9OsBoGRGaDg5t8zEmATgy+xfuWGYjEkCJsxdvcEsjMwfeVeD/e3mFBi
+http://api.useetv.com/telin/live/fddbadb5b544/playlist.m3u8
 #EXTINF:0, PRAMBORS
 http://118.97.167.19/jhos/pramborstv/0/chunks.m3u8
 
