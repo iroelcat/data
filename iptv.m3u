@@ -1,15 +1,15 @@
 #EXTM3U 
 
-#EXTINF:-1, RTM 1
+#EXTINF:0, RTM 1
 https://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:-1, RTM 2
+#EXTINF:0, RTM 2
 https://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:-1, TV Okey
+#EXTINF:0, TV Okey
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:-1, ASTRO ARENA HD
+#EXTINF:0, ASTRO ARENA HD
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
 #EXTINF:0, JAV HD
@@ -20,103 +20,99 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
 #EXTINF:0, SONY SIX HD
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:0, SONY PIX HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
 #EXTINF:0, SONY MAX HD
 http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8
 #EXTINF:0, SONY LE PLEX HD
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8
-#EXTINF:0, SONY ESPN HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
 #EXTINF:0, OKTO
 https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
 
-#EXTINF:-1, NATGEO 
+#EXTINF:0, NATGEO 
 http://210.210.155.35/uq2663/h/h11/01.m3u8 
  
-#EXTINF:-1, NATGEO WILD 
+#EXTINF:0, NATGEO WILD 
 http://210.210.155.35/uq2663/h/h12/01.m3u8 
 
-#EXTINF:-1, BEIN SPORTS 1 
+#EXTINF:0, BEIN SPORTS 1 
 http://api.useetv.com/telin/live/78a1bc703242/index.m3u8? 
  
-#EXTINF:-1, BEIN SPORTS 2 
+#EXTINF:0, BEIN SPORTS 2 
 http://api.useetv.com/telin/live/14a27c358043/index.m3u8? 
  
-#EXTINF:-1, BEIN SPORTS 3 
+#EXTINF:0, BEIN SPORTS 3 
 http://api.useetv.com/telin/live/fddbadb5b544/index.m3u8? 
  
-#EXTINF:-1, SONY TEN 2 
+#EXTINF:0, SONY TEN 2 
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8 
  
-#EXTINF:-1, REAL MADRID TV 
+#EXTINF:0, REAL MADRID TV 
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8 
  
-#EXTINF:-1, FOX SPORTS 
+#EXTINF:0, FOX SPORTS 
 http://210.210.155.35/uq2663/h/h31/01.m3u8 
  
-#EXTINF:-1, FOX SPORTS 2 
+#EXTINF:0, FOX SPORTS 2 
 http://210.210.155.35/uq2663/h/h32/01.m3u8 
-#EXTINF:-1, FOX SPORTS 2 
+#EXTINF:0, FOX SPORTS 2 
 http://210.210.155.35/uq2663/h/h25/01.m3u8 
  
-#EXTINF:-1, FOX SPORTS 3 
+#EXTINF:0, FOX SPORTS 3 
 http://210.210.155.35/uq2663/h/h33/01.m3u8 
-#EXTINF:-1, FOX SPORTS 3 
+#EXTINF:0, FOX SPORTS 3 
 http://210.210.155.35/uq2663/h/h26/01.m3u8 
  
-#EXTINF:-1, FOX MOVIES 
+#EXTINF:0, FOX MOVIES 
 http://210.210.155.35/uq2663/h/h34/01.m3u8 
-#EXTINF:-1, FOX MOVIES 
+#EXTINF:0, FOX MOVIES 
 http://210.210.155.35/uq2663/h/h24/01.m3u8 
  
-#EXTINF:-1, FOX ACTION MOVIES 
+#EXTINF:0, FOX ACTION MOVIES 
 http://210.210.155.35/uq2663/h/h35/01.m3u8 
-#EXTINF:-1, FOX ACTION MOVIES 
+#EXTINF:0, FOX ACTION MOVIES 
 http://210.210.155.35/uq2663/h/h22/01.m3u8 
  
-#EXTINF:-1, FOX FAMILY MOVIES 
+#EXTINF:0, FOX FAMILY MOVIES 
 http://210.210.155.35/uq2663/h/h36/01.m3u8 
  
-#EXTINF:-1, FOXLIFE 
+#EXTINF:0, FOXLIFE 
 http://210.210.155.35/uq2663/h/h03/01.m3u8 
  
-#EXTINF:-1, FOX 
+#EXTINF:0, FOX 
 http://210.210.155.35/uq2663/h/h04/01.m3u8 
  
-#EXTINF:-1, KIX 
+#EXTINF:0, KIX 
 http://210.210.155.35/uq2663/h/h07/01.m3u8 
  
-#EXTINF:-1, AXN 
+#EXTINF:0, AXN 
 http://210.210.155.35/uq2663/h/h09/01.m3u8 
  
-#EXTINF:-1, SONY CHANNEL 
+#EXTINF:0, SONY CHANNEL 
 http://210.210.155.35/uq2663/h/h06/01.m3u8 
  
-#EXTINF:-1, SONY 
+#EXTINF:0, SONY 
 http://210.210.155.35/uq2663/h/h13/01.m3u8 
  
-#EXTINF:-1, ZEE BIOSKOP 
+#EXTINF:0, ZEE BIOSKOP 
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8 
  
-#EXTINF:-1, THRILL 
+#EXTINF:0, THRILL 
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8 
  
-#EXTINF:-1, Kids Diamond 
+#EXTINF:0, Kids Diamond 
 http://119.235.249.60:1935/kids/live/playlist.m3u8 
  
-#EXTINF:-1, ANIPLUS 
+#EXTINF:0, ANIPLUS 
 http://210.210.155.35/uq2663/h/h02/01.m3u8 
  
-#EXTINF:-1, ANIMAX 
+#EXTINF:0, ANIMAX 
 http://210.210.155.35/uq2663/h/h18/01.m3u8 
  
-#EXTINF:-1, NATGEO 
+#EXTINF:0, NATGEO 
 http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/chunklist_w528182195_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTd1TjhpclRZYmc0a3JxQ2xULWZ1bXc1OTdueXNpUUxUZWRNdzJfM0hYcThYTWtQR253X2xzQ3hxWng3T0hBY2M=.m3u8 
  
-#EXTINF:-1, NATGEO WILD 
+#EXTINF:0, NATGEO WILD 
 http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklist_w1434079452_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTlIQnp4TmV1VktDRjl0U2c4RUpCRFFvdUpyaDRNeUhaam1rTUpHZHE4VWg0QVBBRmQ5LTZ5bEpxVGgwM3BvcGw=.m3u8
  
-#EXTINF:-1, BIZNET KIDS 
+#EXTINF:0, BIZNET KIDS 
 http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1577271143_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
  
