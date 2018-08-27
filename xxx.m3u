@@ -9,17 +9,4 @@ http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3185.m3u8
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3187.m3u8
 #EXTINF:-1,Pink_O_TV
 http://213.59.128.162:9996/play/Pink_O_TV/index.m3u8
-#EXTINF:-1,[xxx]CENTOXCENTO TV
-http://195.230.115.18:65080/play/a8104/index.m3u8
-#EXTINF:-1,[xxx]DUSK TV
-http://195.230.115.18:65080/play/a8101/index.m3u8
-#EXTINF:-1,[xxx]LIVECHANNEL
-http://195.230.115.18:65080/play/a8106/index.m3u8
-#EXTINF:-1,[xxx]PASSIONXXX
-http://195.230.115.18:65080/play/a8105/index.m3u8
-#EXTINF:-1,[xxx]PINK O TV
-http://195.230.115.18:65080/play/a8107/index.m3u8
-#EXTINF:-1,[xxx]SCT
-http://195.230.115.18:65080/play/a8102/index.m3u8
-#EXTINF:-1,[xxx]***TOSENSO
-http://195.230.115.18:65080/play/a8100/index.m3u8
+
