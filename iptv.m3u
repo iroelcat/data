@@ -2,6 +2,8 @@
 
 #EXTINF:-1,LIFESTYLE - [485] Nat Geo People
 rtp://@239.1.2.67:8376
+#EXTINF:0, PRAM
+rtp://@118.97.167.19
 
 #EXTINF:0, RTM 1
 https://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
