@@ -7,8 +7,6 @@ https://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:-1, ASTRO ARENA HD
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1, DISCOVERY WORLD HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/04.m3u8
 #EXTINF:-1, Sony Ten 1 HD
 http://mhms9.airtel.tv/PLTV/88888888/224/3221225875/index.m3u8
 #EXTINF:-1, Sony Ten 2 HD
@@ -27,6 +25,8 @@ http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8
 https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
 #EXTINF:-1, WorkPoint FHD
 https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
+#EXTINF:-1, DISCOVERY WORLD HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/04.m3u8
 #EXTINF:-1, NATGEO
 http://210.210.155.35/uq2663/h/h11/01.m3u8
 #EXTINF:-1, NATGEO WILD
