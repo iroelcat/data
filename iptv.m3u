@@ -16,7 +16,7 @@ http://mhms9.airtel.tv/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:-1, Sony ESPN HD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226076/index.m3u8
 #EXTINF:-1, SONY SIX HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
 #EXTINF:-1, SONY MAX HD
 http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8
 #EXTINF:-1, SONY LE PLEX HD
@@ -39,8 +39,6 @@ http://api.useetv.com/telin/live/78a1bc703242/index.m3u8?
 http://api.useetv.com/telin/live/14a27c358043/index.m3u8?
 #EXTINF:-1, BEIN SPORTS 3 HD
 http://api.useetv.com/telin/live/fddbadb5b544/index.m3u8?
-#EXTINF:-1, REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:-1, FOX SPORTS
 http://210.210.155.35/uq2663/h/h31/01.m3u8
 #EXTINF:-1, FOX SPORTS 2
