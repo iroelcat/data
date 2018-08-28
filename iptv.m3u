@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="OTHERS",RTM 1
+#EXTINF:-1 group-title="MIX",RTM 1
 https://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1 group-title="OTHERS",RTM 2
+#EXTINF:-1 group-title="MIX",RTM 2
 https://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1 group-title="OTHERS",TV Okey
+#EXTINF:-1 group-title="MIX",TV Okey
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:-1 group-title="SPORTS",ASTRO ARENA HD
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
@@ -24,7 +24,7 @@ http://api.useetv.com/telin/live/fddbadb5b544/index.m3u8?
 #EXTINF:-1 group-title="SPORTS",SONY SIX HD
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
 #EXTINF:-1 group-title="BOLYWOOD",SONY MAX HD
-http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/index.m3u8
 #EXTINF:-1 group-title="MOVIES",SONY LE PLEX HD
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8
 #EXTINF:-1 group-title="EDUCATIONS",DISCOVERY WORLD HD
@@ -57,15 +57,15 @@ http://210.210.155.35/uq2663/h/h35/01.m3u8
 http://210.210.155.35/uq2663/h/h22/01.m3u8
 #EXTINF:-1 group-title="MOVIES",FOX FAMILY MOVIES
 http://210.210.155.35/uq2663/h/h36/01.m3u8
-#EXTINF:-1 group-title="OTHERS",FOXLIFE
+#EXTINF:-1 group-title="MIX",FOXLIFE
 http://210.210.155.35/uq2663/h/h03/01.m3u8
 #EXTINF:-1 group-title="SPORTS",KIX
 http://210.210.155.35/uq2663/h/h07/01.m3u8
-#EXTINF:-1 group-title="OTHERS",AXN
+#EXTINF:-1 group-title="MIX",AXN
 http://210.210.155.35/uq2663/h/h09/01.m3u8
-#EXTINF:-1 group-title="OTHERS",SONY CHANNEL
+#EXTINF:-1 group-title="MIX",SONY CHANNEL
 http://210.210.155.35/uq2663/h/h06/01.m3u8
-#EXTINF:-1 group-title="OTHERS",SONY ONE
+#EXTINF:-1 group-title="MIX",SONY ONE
 http://210.210.155.35/uq2663/h/h13/01.m3u8
 #EXTINF:-1 group-title="BOLYWOOD",ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
@@ -95,12 +95,12 @@ http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/chunklist_w528
 http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklist_w1434079452_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTlIQnp4TmV1VktDRjl0U2c4RUpCRFFvdUpyaDRNeUhaam1rTUpHZHE4VWg0QVBBRmQ5LTZ5bEpxVGgwM3BvcGw=.m3u8
 #EXTINF:-1 group-title="KIDS",BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1577271143_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
-#EXTINF:-1 group-title="OTHERS",OKTO
+#EXTINF:-1 group-title="MIX",OKTO
 https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
-#EXTINF:-1 group-title="OTHERS",WorkPoint FHD
+#EXTINF:-1 group-title="MIX",WorkPoint FHD
 https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
 
-#EXTINF:-1 group-title="OTHERS",PPTV
+#EXTINF:-1 group-title="MIX",PPTV
 http://d002free.ddns.net:443/hd-pptv_720/index.m3u8
 #EXTINF:-1 group-title="MOVIES",HBO ENG
 http://d002free.ddns.net:443/hd-hboeng_720/index.m3u8
