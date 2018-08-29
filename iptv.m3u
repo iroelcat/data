@@ -134,31 +134,13 @@ http://d002free.ddns.net:443/epl-bein4_1080/index.m3u8
 http://d002free.ddns.net:443/fr-bein1hd_480/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Bein Sport 2 France
 http://d002free.ddns.net:443/fr-bein3hd_480/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Sports Action
-http://d002free.ddns.net:443/uk-skysports-action_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Sports Arena
-http://d002free.ddns.net:443/uk-skysports-arena_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Sports Cricket
-http://d002free.ddns.net:443/uk-skysports-cricket_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Sports Football
-http://d002free.ddns.net:443/uk-skysports-football_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Sports EPL
-http://d002free.ddns.net:443/uk-skysports-epl_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Sports Mainevent
-http://d002free.ddns.net:443/uk-skysports-mainevent_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Box Nation
-http://d002free.ddns.net:443/uk-skyboxoffice_480/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Sports News
-http://d002free.ddns.net:443/uk-skysports-news_480/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Bundesliga
-http://d002free.ddns.net:443/de-skybundesliga_480/index.m3u8
 #EXTINF:-1 group-title="SPORTS",BT Sport 1
 http://d002free.ddns.net:443/uk-btsport1hd_720/index.m3u8
 #EXTINF:-1 group-title="SPORTS",BT Sport 2
 http://d002free.ddns.net:443/uk-btsport2hd_720/index.m3u8
 #EXTINF:-1 group-title="SPORTS",BT Sport 3
 http://d002free.ddns.net:443/uk-btsport3hd_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Euro Sport 1
+#EXTINF:-1 group-title="SPORTS",Euro Sport
 http://d002free.ddns.net:443/uk-eurosport_480/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Chealsea TV
 http://d002free.ddns.net:443/uk-chelseatv_480/index.m3u8
