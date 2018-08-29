@@ -158,12 +158,8 @@ http://d002free.ddns.net:443/uk-btsport1hd_720/index.m3u8
 http://d002free.ddns.net:443/uk-btsport2hd_720/index.m3u8
 #EXTINF:-1 group-title="SPORTS",BT Sport 3
 http://d002free.ddns.net:443/uk-btsport3hd_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS",BT Sport Extra 1
-http://d002free.ddns.net:443/uk-btsportextra1_480/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Euro Sport 1
 http://d002free.ddns.net:443/uk-eurosport_480/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Euro Sport 2
-http://d002free.ddns.net:443/uk-eurosport2_480/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Chealsea TV
 http://d002free.ddns.net:443/uk-chelseatv_480/index.m3u8
 #EXTINF:-1 group-title="SPORTS",MU TV
