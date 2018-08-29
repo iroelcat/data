@@ -146,14 +146,3 @@ http://d002free.ddns.net:443/uk-eurosport_480/index.m3u8
 http://d002free.ddns.net:443/uk-chelseatv_480/index.m3u8
 #EXTINF:-1 group-title="SPORTS",MU TV
 http://d002free.ddns.net:443/uk-mutv_480/index.m3u8
-#EXTINF:-1 group-title="SPORTS",ASN
-http://d002free.ddns.net:443/hd-sportsillustrated_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS",ESPN
-http://d002free.ddns.net:443/uk-espn_480/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Premier Sports
-http://d002free.ddns.net:443/uk-premiersports_480/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Racing
-http://d002free.ddns.net:443/uk-racing_480/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Sportsnet1
-http://d002free.ddns.net:443/ca-sportsnet1_480/index.m3u8
-
