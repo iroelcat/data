@@ -47,8 +47,6 @@ http://210.210.155.35/qwr9ew/s/s32/02.m3u8
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 #EXTINF:-1,INTV 
 http://210.210.155.35/qwr9ew/s/s46/02.m3u8
-#EXTINF:-1,TVRI SPORT 
-http://210.210.155.35/qwr9ew/s/s48/02.m3u8
 #EXTINF:-1,RTM 1
 https://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:-1,RTM 2
