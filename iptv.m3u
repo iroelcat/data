@@ -6,11 +6,11 @@ http://210.210.155.35/uq2663/h/h32/02.m3u8
 #EXTINF:-1,FOX SPORTS 3
 http://210.210.155.35/uq2663/h/h33/02.m3u8
 #EXTINF:-1,BEIN SPORTS 1
-http://api.useetv.com/telin/live/78a1bc703242/index.m3u8?
+http://api.useetv.com/telin/live/78a1bc703242/index.m3u8
 #EXTINF:-1,BEIN SPORTS 2
-http://api.useetv.com/telin/live/14a27c358043/index.m3u8?
+http://api.useetv.com/telin/live/14a27c358043/index.m3u8
 #EXTINF:-1,BEIN SPORTS 3
-http://api.useetv.com/telin/live/fddbadb5b544/index.m3u8?
+http://api.useetv.com/telin/live/fddbadb5b544/index.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
 http://210.210.155.35/uq2663/h/h11/02.m3u8
 #EXTINF:-1,NATGEO WILD
@@ -39,14 +39,10 @@ http://210.210.155.35/uq2663/h/h13/02.m3u8
 http://210.210.155.35/uq2663/h/h18/02.m3u8
 #EXTINF:-1,ANIPLUS
 http://210.210.155.35/uq2663/h/h02/02.m3u8
-#EXTINF:-1,RTV
-http://210.210.155.35/qwr9ew/s/s12/02.m3u8
 #EXTINF:-1,ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/02.m3u8
 #EXTINF:-1,THRILL 
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1,INTV 
-http://210.210.155.35/qwr9ew/s/s46/02.m3u8
 #EXTINF:-1,RTM 1
 https://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:-1,RTM 2
