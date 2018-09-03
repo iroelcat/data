@@ -55,8 +55,7 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8
 #EXTINF:-1,SONY TEN 3 SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225933/index.m3u8
-#EXTINF:-1,PPTV HD
-36
+#EXTINF:-1,PPTV HD 36
 http://main-a.for-our.info:8081/tv1/ch2.m3u8
 #EXTINF:-1,WORKPOINT 23
 http://main-a.for-our.info:8081/tv1/ch7.m3u8
@@ -72,5 +71,3 @@ http://main-a.for-our.info:8081/tv1/ch10.m3u8
 http://main-a.for-our.info:8081/tv1/ch13.m3u8
 #EXTINF:-1,BBTV 7 HD
 http://main-a.for-our.info:8081/tv1/ch1.m3u8
-#EXTINF:-1,TV9 NUSANTARA
-http://videostream.indostreamserver.com:1935/tv9/live/playlist.m3u8
