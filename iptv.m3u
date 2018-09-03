@@ -35,10 +35,6 @@ http://210.210.155.35/uq2663/h/h02/02.m3u8
 http://210.210.155.35/qwr9ew/s/s32/02.m3u8
 #EXTINF:-1,THRILL 
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1,RTM 1
-https://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1,RTM 2
-https://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 #EXTINF:-1,ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:-1,Astro Super Sport 1 HD
