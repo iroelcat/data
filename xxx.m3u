@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1,$ Hustler HD
+http://37.9.0.196:9002/play/a005v17/index.m3u8
+#EXTINF:-1,$ Penthouse 1 HD
+http://37.9.0.196:9002/play/a006v18/index.m3u8
+#EXTINF:-1,$ Penthouse 2 HD
+http://37.9.0.196:9002/play/a007v19/index.m3u8
+#EXTINF:-1,Brazz
+http://37.9.0.196:9002/play/a002rg/index.m3u8
+#EXTINF:-1,Dorcel HD
+http://37.9.0.196:9002/play/a008v19/index.m3u8
+#EXTINF:-1,HOT
+http://37.9.0.196:9002/play/a003hui/index.m3u8
+#EXTINF:-1,Private HD
+http://37.9.0.196:9002/play/a047/index.m3u8
+#EXTINF:-1,Redlight HD
+http://37.9.0.196:9002/play/a03zv16/index.m3u8
+#EXTINF:-1,Vivid Europe
+http://37.9.0.196:9002/play/a002tehu/index.m3u8
+#EXTINF:-1,Vivid Red HD
+http://37.9.0.196:9002/play/a046/index.m3u8
 #EXTINF:-1,Pink_O_TV
 http://213.59.128.162:9996/play/Pink_O_TV/index.m3u8
 
