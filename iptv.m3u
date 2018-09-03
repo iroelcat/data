@@ -53,9 +53,3 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8
 #EXTINF:-1,SONY TEN 3 SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225933/index.m3u8
-#EXTINF:-1,BIZNET KIDS
-http://lihattv.com/?play=43680
-#EXTINF:-1,Kids Diamond
-http://119.235.249.60:1935/kids/live/playlist.m3u8
-#EXTINF:0,(ID) TV9 NUSANTARA
-rtmp://videostream.indostreamserver.com:1935/tv9/live
