@@ -53,3 +53,5 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8
 #EXTINF:-1,SONY TEN 3 SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225933/index.m3u8
+#EXTINF:0,PPTV HD
+http://main-a.for-our.info:8081/tv1/ch2.m3u8
