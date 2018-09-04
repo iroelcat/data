@@ -1,69 +1,102 @@
 #EXTM3U
-#EXTINF:-1,NATIONAL GEOGRAPHIC
+#EXTINF:-1 group-title="EDUCATIONS", NATIONAL GEOGRAPHIC
 http://210.210.155.35/uq2663/h/h11/02.m3u8
-#EXTINF:-1,NATGEO WILD
+#EXTINF:-1 group-title="EDUCATIONS", NATGEO WILD
 http://210.210.155.35/uq2663/h/h12/02.m3u8
-#EXTINF:-1,ANIMAL PLANET WORLD
+#EXTINF:-1 group-title="EDUCATIONS", ANIMAL PLANET WORLD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/02.m3u8
-#EXTINF:-1,DISCOVERY WORLD
+#EXTINF:-1 group-title="EDUCATIONS", DISCOVERY WORLD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/02.m3u8
-#EXTINF:-1,FOX SPORTS
+
+#EXTINF:-1 group-title="SPORTS", FOX SPORTS
 http://210.210.155.35/uq2663/h/h31/02.m3u8
-#EXTINF:-1,FOX SPORTS 2
+#EXTINF:-1 group-title="SPORTS", FOX SPORTS 2
 http://210.210.155.35/uq2663/h/h32/02.m3u8
-#EXTINF:-1,FOX SPORTS 3
+#EXTINF:-1 group-title="SPORTS", FOX SPORTS 3
 http://210.210.155.35/uq2663/h/h33/02.m3u8
-#EXTINF:-1,FOX
+
+#EXTINF:-1 group-title="MOVIES", FOX
 http://210.210.155.35/uq2663/h/h04/02.m3u8
-#EXTINF:-1,FOX MOVIES
+#EXTINF:-1 group-title="MOVIES", FOX MOVIES
 http://210.210.155.35/uq2663/h/h34/02.m3u8
-#EXTINF:-1,FOX ACTION MOVIES
+#EXTINF:-1 group-title="MOVIES", FOX ACTION MOVIES
 http://210.210.155.35/uq2663/h/h35/02.m3u8
-#EXTINF:-1,FOX FAMILY MOVIES
+#EXTINF:-1 group-title="MOVIES", FOX FAMILY MOVIES
 http://210.210.155.35/uq2663/h/h36/02.m3u8
-#EXTINF:-1,KIX
+#EXTINF:-1 group-title="MOVIES", KIX
 http://210.210.155.35/uq2663/h/h07/02.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1 group-title="MOVIES", AXN
 http://210.210.155.35/uq2663/h/h09/02.m3u8
-#EXTINF:-1,ANIMAX
-http://210.210.155.35/uq2663/h/h18/02.m3u8
-#EXTINF:-1,ANIPLUS
-http://210.210.155.35/uq2663/h/h02/02.m3u8
-#EXTINF:-1,ZEE BIOSKOP
+#EXTINF:-1 group-title="MOVIES", ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/02.m3u8
-#EXTINF:-1,THRILL 
+#EXTINF:-1 group-title="MOVIES", THRILL 
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1,ASTRO ARENA
+
+#EXTINF:-1 group-title="SPORTS", ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1,Astro Super Sport 1
+#EXTINF:-1 group-title="SPORTS", Astro Super Sport 1
 http://playbackn15.aotg-video.astro.com.my/CH1/master_AG4_8.m3u8
-#EXTINF:-1,Astro Super Sport 2
+#EXTINF:-1 group-title="SPORTS", Astro Super Sport 2
 http://playbackn15.aotg-video.astro.com.my/CH2/master_AG5_8.m3u8
-#EXTINF:-1,Astro Super Sport 3
+#EXTINF:-1 group-title="SPORTS", Astro Super Sport 3
 http://playbackn15.aotg-video.astro.com.my/CH3/master_AG6_8.m3u8
-#EXTINF:-1,SONY ESPN SD
+#EXTINF:-1 group-title="SPORTS", SONY ESPN SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225805/index.m3u8
-#EXTINF:-1,SONY SIX SD
+#EXTINF:-1 group-title="SPORTS", SONY SIX SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225827/index.m3u8
-#EXTINF:-1,SONY TEN 1 SD
+#EXTINF:-1 group-title="SPORTS", SONY TEN 1 SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:-1,SONY TEN 2 SD
+#EXTINF:-1 group-title="SPORTS", SONY TEN 2 SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:-1,SONY TEN 3 SD
+#EXTINF:-1 group-title="SPORTS", SONY TEN 3 SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225933/index.m3u8
-#EXTINF:-1,PPTV HD 36
+#EXTINF:-1 group-title="SPORTS", AD SPORT 1 SD
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1 group-title="SPORTS", AD SPORT 2 SD
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1 group-title="SPORTS", AD SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="SPORTS", AD SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 group-title="SPORTS", Al Kass Sports 1 
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 group-title="SPORTS",Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 group-title="SPORTS", Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 group-title="SPORTS", Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 group-title="SPORTS", Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 group-title="SPORTS", Arena Sport 1 (hr)
+http://prima.stream-control.live:8080/live/miriahreid/IcjBEYb3T8/65367.m3u8
+#EXTINF:-1 group-title="SPORTS", Arena Sport 2 (hr)
+http://prima.stream-control.live:8080/live/miriahreid/IcjBEYb3T8/117281.m3u8
+#EXTINF:-1 group-title="SPORTS", Arena Sport 3 (hr)
+http://prima.stream-control.live:8080/live/miriahreid/IcjBEYb3T8/65365.m3u8
+#EXTINF:-1 group-title="SPORTS", Arena Sport 4 (hr)
+http://prima.stream-control.live:8080/live/miriahreid/IcjBEYb3T8/65364.m3u8
+#EXTINF:-1 group-title="SPORTS", Arena Sport 6 (hr)
+http://prima.stream-control.live:8080/live/miriahreid/IcjBEYb3T8/65362.m3u8
+
+#EXTINF:-1 group-title="KIDS", ANIMAX
+http://210.210.155.35/uq2663/h/h18/02.m3u8
+#EXTINF:-1 group-title="KIDS", ANIPLUS
+http://210.210.155.35/uq2663/h/h02/02.m3u8
+
+#EXTINF:-1 group-title="THAILAND", PPTV HD 36
 http://main-a.for-our.info:8081/tv1/ch2.m3u8
-#EXTINF:-1,WORKPOINT 23
+#EXTINF:-1 group-title="THAILAND", WORKPOINT 23
 http://main-a.for-our.info:8081/tv1/ch7.m3u8
-#EXTINF:-1,TRUE4U 24
+#EXTINF:-1 group-title="THAILAND", TRUE4U 24
 http://main-a.for-our.info:8081/tv1/ch4.m3u8
-#EXTINF:-1,MONO 29
+#EXTINF:-1 group-title="THAILAND", MONO 29
 http://main-a.for-our.info:8081/tv1/ch3.m3u8
-#EXTINF:-1,MCOT HD
+#EXTINF:-1 group-title="THAILAND", MCOT HD
 http://main-a.for-our.info:8081/tv2/ch7.m3u8
-#EXTINF:-1,ONE HD 31
+#EXTINF:-1 group-title="THAILAND", ONE HD 31
 http://main-a.for-our.info:8081/tv1/ch10.m3u8
-#EXTINF:-1,AMARIN 34 HD
+#EXTINF:-1 group-title="THAILAND", AMARIN 34 HD
 http://main-a.for-our.info:8081/tv1/ch13.m3u8
-#EXTINF:-1,BBTV 7 HD
+#EXTINF:-1 group-title="THAILAND", BBTV 7 HD
 http://main-a.for-our.info:8081/tv1/ch1.m3u8
