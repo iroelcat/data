@@ -1,34 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="EDUCATIONS",NATIONAL GEOGRAPHIC
-http://210.210.155.35/uq2663/h/h11/02.m3u8
-#EXTINF:-1 group-title="EDUCATIONS",NATGEO WILD
-http://210.210.155.35/uq2663/h/h12/02.m3u8
+
 #EXTINF:-1 group-title="EDUCATIONS",ANIMAL PLANET WORLD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/02.m3u8
 #EXTINF:-1 group-title="EDUCATIONS",DISCOVERY WORLD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/02.m3u8
-#EXTINF:-1 group-title="SPORTS",FOX SPORTS
-http://210.210.155.35/uq2663/h/h31/02.m3u8
-#EXTINF:-1 group-title="SPORTS",FOX SPORTS 2
-http://210.210.155.35/uq2663/h/h32/02.m3u8
-#EXTINF:-1 group-title="SPORTS",FOX SPORTS 3
-http://210.210.155.35/uq2663/h/h33/02.m3u8
-#EXTINF:-1 group-title="MOVIES",FOX
-http://210.210.155.35/uq2663/h/h04/02.m3u8
-#EXTINF:-1 group-title="MOVIES",FOX MOVIES
-http://210.210.155.35/uq2663/h/h34/02.m3u8
-#EXTINF:-1 group-title="MOVIES",FOX ACTION MOVIES
-http://210.210.155.35/uq2663/h/h35/02.m3u8
-#EXTINF:-1 group-title="MOVIES",FOX FAMILY MOVIES
-http://210.210.155.35/uq2663/h/h36/02.m3u8
-#EXTINF:-1 group-title="MOVIES",KIX
-http://210.210.155.35/uq2663/h/h07/02.m3u8
-#EXTINF:-1 group-title="MOVIES",AXN
-http://210.210.155.35/uq2663/h/h09/02.m3u8
-#EXTINF:-1 group-title="MOVIES",ZEE BIOSKOP
-http://210.210.155.35/qwr9ew/s/s32/02.m3u8
-#EXTINF:-1 group-title="MOVIES",THRILL 
-http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 #EXTINF:-1 group-title="SPORTS",ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:-1 group-title="SPORTS",ASTRO SUPER SPORT 1
@@ -75,10 +50,6 @@ http://prima.stream-control.live:8080/live/miriahreid/IcjBEYb3T8/65365.m3u8
 http://prima.stream-control.live:8080/live/miriahreid/IcjBEYb3T8/65364.m3u8
 #EXTINF:-1 group-title="SPORTS",ARENA SPORT 6 (hr)
 http://prima.stream-control.live:8080/live/miriahreid/IcjBEYb3T8/65362.m3u8
-#EXTINF:-1 group-title="KIDS",ANIMAX
-http://210.210.155.35/uq2663/h/h18/02.m3u8
-#EXTINF:-1 group-title="KIDS",ANIPLUS
-http://210.210.155.35/uq2663/h/h02/02.m3u8
 #EXTINF:-1 group-title="THAILAND",PPTV HD 36
 http://main-a.for-our.info:8081/tv1/ch2.m3u8
 #EXTINF:-1 group-title="THAILAND",WORKPOINT 23
