@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="EDUCATIONS",ANIMAL PLANET WORLD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/02.m3u8
 #EXTINF:-1 group-title="EDUCATIONS",DISCOVERY WORLD
@@ -66,3 +65,7 @@ http://main-a.for-our.info:8081/tv1/ch10.m3u8
 http://main-a.for-our.info:8081/tv1/ch13.m3u8
 #EXTINF:-1 group-title="THAILAND",BBTV 7 HD
 http://main-a.for-our.info:8081/tv1/ch1.m3u8
+#EXTINF:-1 group-title="LOKAL",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="LOKAL",TV9 NUSANTARA
+http://videostream.indostreamserver.com:1935/tv9/live/playlist.m3u8
