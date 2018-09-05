@@ -7,8 +7,6 @@ http://mhms10.airtel.tv/PLTV/88888888/224/3221226488/index.m3u8
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/02.m3u8
 #EXTINF:-1 group-title="SPORTS",FOX SPORTS
 http://45.58.62.92:8080
-#EXTINF:-1 group-title="SPORTS",FOX SPORTS HD
-http://45.58.62.92:8081
 #EXTINF:-1 group-title="SPORTS",MOTOR SPORT
 http://45.58.62.92:8084
 #EXTINF:-1 group-title="SPORTS",ASTRO ARENA
@@ -79,13 +77,5 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 https://stream-01.sg1.dailymotion.com/dm/3/x619221/live-3.m3u8
 #EXTINF:-1 group-title="LOKAL",TV9 NUSANTARA
 http://videostream.indostreamserver.com:1935/tv9/live/playlist.m3u8
-#EXTINF:-1 group-title="USA",MLB Network (Opt-1)
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 group-title="SPORTS",D Sports
-http://mhms9.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Neo Sports
-http://cshms2.airtel.tv/PLTV/88888888/224/3221225791/index.m3u8
-#EXTINF:-1 group-title="SPORTS",PTV Sports
-http://50.7.198.170:8081/abcd/ptvsports/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",WWE Network
 http://50.7.198.170:8081/abcd/wwe/playlist.m3u8
