@@ -91,7 +91,7 @@ http://210.210.155.35/uq2663/h/h18/02.m3u8
 http://210.210.155.35/uq2663/h/h23/02.m3u8
 #EXTINF:0 group-title="OTHERS", SBS
 http://210.210.155.35/uq2663/h/h28/02.m3u8
-#EXTINF:-1 group-title="EDUCATIONS", Da Vinci Kids
+#EXTINF:-1 group-title="KIDS", Da Vinci Kids
 http://210.210.155.35/uq2663/h/h01/02.m3u8
 #EXTINF:-1 group-title="KIDS", ANIPLUS
 http://210.210.155.35/uq2663/h/h02/02.m3u8
@@ -105,6 +105,3 @@ http://210.210.155.35/qwr9ew/s/s32/02.m3u8
 http://210.210.155.35/qwr9ew/s/s33/02.m3u8
 #EXTINF:-1 group-title="MOVIES", THRILL
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1 group-title="OTHERS", Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
