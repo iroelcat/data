@@ -33,16 +33,6 @@ http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 group-title="SPORTS",AD SPORT 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 group-title="SPORTS",ALKASS SPORTS 1
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 group-title="SPORTS",ALKASS SPORTS 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 group-title="SPORTS",ALKASS SPORTS 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1 group-title="SPORTS",ALKASS SPORTS 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 group-title="SPORTS",ALKASS SPORTS 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1 group-title="THAILAND",PPTV HD 36
 http://main-a.for-our.info:8081/tv1/ch2.m3u8
 #EXTINF:-1 group-title="THAILAND",WORKPOINT 23
@@ -61,7 +51,6 @@ http://main-a.for-our.info:8081/tv1/ch13.m3u8
 http://main-a.for-our.info:8081/tv1/ch1.m3u8
 #EXTINF:-1 group-title="SPORTS",WWE Network
 http://50.7.198.170:8081/abcd/wwe/playlist.m3u8
-
 #EXTINF:-1 group-title="LOKAL",TV ONE
 http://210.210.155.35/qwr9ew/s/s02/index.m3u8
 #EXTINF:-1 group-title="LOKAL",SCTV
