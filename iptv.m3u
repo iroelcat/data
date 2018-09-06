@@ -71,42 +71,40 @@ http://main-a.for-our.info:8081/tv1/ch10.m3u8
 http://main-a.for-our.info:8081/tv1/ch13.m3u8
 #EXTINF:-1 group-title="THAILAND",BBTV 7 HD
 http://main-a.for-our.info:8081/tv1/ch1.m3u8
-#EXTINF:-1 group-title="LOKAL",TVONE
-http://210.210.155.35/qwr9ew/s/s02/index.m3u8
-#EXTINF:-1 group-title="LOKAL",SCTV
-http://210.210.155.35/qwr9ew/s/s03/index.m3u8
-#EXTINF:-1 group-title="LOKAL",INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/index.m3u8
-#EXTINF:-1 group-title="LOKAL",TRANSTV
-http://210.210.155.35/qwr9ew/s/s05/index.m3u8
-#EXTINF:-1 group-title="LOKAL",TRANS7
-http://210.210.155.35/qwr9ew/s/s06/index.m3u8
-#EXTINF:-1 group-title="LOKAL",ANTV
-http://210.210.155.35/qwr9ew/s/s07/index.m3u8
-#EXTINF:-1 group-title="LOKAL",NET.
-http://210.210.155.35/qwr9ew/s/s08/index.m3u8
-#EXTINF:-1 group-title="LOKAL",KOMPASTV
-http://210.210.155.35/qwr9ew/s/s09/index.m3u8
-#EXTINF:-1 group-title="LOKAL",ElshintaTV
-http://210.210.155.35/qwr9ew/s/s10/index.m3u8
-#EXTINF:-1 group-title="LOKAL",METRO TV
-http://210.210.155.35/qwr9ew/s/s11/index.m3u8
-#EXTINF:-1 group-title="LOKAL",RTV
-http://210.210.155.35/qwr9ew/s/s12/index.m3u8
-#EXTINF:-1 group-title="LOKAL",INTV
-http://210.210.155.35/qwr9ew/s/s46/index.m3u8
-#EXTINF:-1 group-title="LOKAL",TVRI SPORT
-http://210.210.155.35/qwr9ew/s/s48/index.m3u8
-#EXTINF:-1 group-title="LOKAL",METRO TV 2
-http://210.210.155.35/qwr9ew/s/s49/index.m3u8
-#EXTINF:-1 group-title="LOKAL",CNN INDONESIA
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="LOKAL",TVONE
-https://stream-01.sg1.dailymotion.com/dm/3/x619221/live-3.m3u8
-#EXTINF:-1 group-title="LOKAL",TV9 NUSANTARA
-http://videostream.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",WWE Network
 http://50.7.198.170:8081/abcd/wwe/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",TVONE
+http://210.210.155.35/qwr9ew/s/s02/02.m3u8
+#EXTINF:-1 group-title="LOKAL",SCTV
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+#EXTINF:-1 group-title="LOKAL",INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8
+#EXTINF:-1 group-title="LOKAL",TRANSTV
+http://210.210.155.35/qwr9ew/s/s05/02.m3u8
+#EXTINF:-1 group-title="LOKAL",TRANS7
+http://210.210.155.35/qwr9ew/s/s06/02.m3u8
+#EXTINF:-1 group-title="LOKAL",ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+#EXTINF:-1 group-title="LOKAL",NET.
+http://210.210.155.35/qwr9ew/s/s08/02.m3u8
+#EXTINF:-1 group-title="LOKAL",KOMPASTV
+http://210.210.155.35/qwr9ew/s/s09/02.m3u8
+#EXTINF:-1 group-title="LOKAL",ElshintaTV
+http://210.210.155.35/qwr9ew/s/s10/02.m3u8
+#EXTINF:-1 group-title="LOKAL",METRO TV
+http://210.210.155.35/qwr9ew/s/s11/02.m3u8
+#EXTINF:-1 group-title="LOKAL",RTV
+http://210.210.155.35/qwr9ew/s/s12/02.m3u8
+#EXTINF:-1 group-title="LOKAL",INTV
+http://210.210.155.35/qwr9ew/s/s46/02.m3u8
+#EXTINF:-1 group-title="LOKAL",TVRI SPORT
+http://210.210.155.35/qwr9ew/s/s48/02.m3u8
+#EXTINF:-1 group-title="LOKAL",METRO TV 2
+http://210.210.155.35/qwr9ew/s/s49/02.m3u8
+#EXTINF:-1 group-title="LOKAL",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="LOKAL",TV9 NUSANTARA
+http://videostream.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",KIX
 http://210.210.155.35/uq2663/h/h07/02.m3u8
 #EXTINF:-1 group-title="MOVIES",K+
