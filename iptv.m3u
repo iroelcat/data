@@ -7,8 +7,6 @@ http://mhms10.airtel.tv/PLTV/88888888/224/3221226488/index.m3u8
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/02.m3u8
 #EXTINF:-1 group-title="SPORTS",FOX SPORTS
 http://45.58.62.92:8080
-#EXTINF:-1 group-title="SPORTS",MOTOR SPORT
-http://45.58.62.92:8084
 #EXTINF:-1 group-title="SPORTS",ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:-1 group-title="SPORTS",ASTRO SUPER SPORT 1
