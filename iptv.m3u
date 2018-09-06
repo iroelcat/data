@@ -5,6 +5,34 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/02.m3u8
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226488/index.m3u8
 #EXTINF:-1 group-title="EDUCATIONS",DISCOVERY WORLD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/02.m3u8
+#EXTINF:-1 group-title="SPORTS",Bein sport 1 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6811.ts.m3u8
+#EXTINF:-1 group-title="SPORTS",Bein sport 2 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6810.ts.m3u8
+#EXTINF:-1 group-title="SPORTS",Bein sport 3 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6809.ts.m3u8
+#EXTINF:-1 group-title="SPORTS",Bein sport 4 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6808.ts.m3u8
+#EXTINF:-1 group-title="SPORTS",Bein sport 5 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6807.ts.m3u8
+#EXTINF:-1 group-title="SPORTS",Bein sport 6 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6806.ts.m3u8
+#EXTINF:-1 group-title="SPORTS",Bein sport 7 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6805.ts.m3u8
+#EXTINF:-1 group-title="SPORTS",Bein sport 8 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6804.ts.m3u8
+#EXTINF:-1 group-title="SPORTS",Bein sport 9 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6803.ts.m3u8
+#EXTINF:-1 group-title="SPORTS",Bein sport 10 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6802.ts.m3u8
+#EXTINF:-1 group-title="SPORTS",Bein sport 11 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6801.ts.m3u8
+#EXTINF:-1 group-title="SPORTS",Bein sport 12 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6800.ts.m3u8
+#EXTINF:-1 group-title="SPORTS",SFR SPORT 2HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6795.ts.m3u8
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS MAX 7 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6790.ts.m3u8
 #EXTINF:-1 group-title="SPORTS",FOX SPORTS
 http://45.58.62.92:8080
 #EXTINF:-1 group-title="SPORTS",ASTRO ARENA
@@ -43,16 +71,6 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 group-title="SPORTS",ALKASS SPORTS 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1 group-title="SPORTS",ARENA SPORT 1 (hr)
-http://prima.stream-control.live:8080/live/miriahreid/IcjBEYb3T8/65367.m3u8
-#EXTINF:-1 group-title="SPORTS",ARENA SPORT 2 (hr)
-http://prima.stream-control.live:8080/live/miriahreid/IcjBEYb3T8/117281.m3u8
-#EXTINF:-1 group-title="SPORTS",ARENA SPORT 3 (hr)
-http://prima.stream-control.live:8080/live/miriahreid/IcjBEYb3T8/65365.m3u8
-#EXTINF:-1 group-title="SPORTS",ARENA SPORT 4 (hr)
-http://prima.stream-control.live:8080/live/miriahreid/IcjBEYb3T8/65364.m3u8
-#EXTINF:-1 group-title="SPORTS",ARENA SPORT 6 (hr)
-http://prima.stream-control.live:8080/live/miriahreid/IcjBEYb3T8/65362.m3u8
 #EXTINF:-1 group-title="THAILAND",PPTV HD 36
 http://main-a.for-our.info:8081/tv1/ch2.m3u8
 #EXTINF:-1 group-title="THAILAND",WORKPOINT 23
