@@ -105,3 +105,6 @@ http://210.210.155.35/qwr9ew/s/s32/02.m3u8
 http://210.210.155.35/qwr9ew/s/s33/02.m3u8
 #EXTINF:-1 group-title="MOVIES", THRILL
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1 group-title="OTHERS", Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
