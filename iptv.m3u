@@ -81,8 +81,6 @@ http://videostream.indostreamserver.com:1935/tv9/live/playlist.m3u8
 http://rr.dens.tv/h/h07/index1.m3u8
 #EXTINF:-1 group-title="MIX", K+
 http://rr.dens.tv/h/h08/index1.m3u8
-#EXTINF:-1 group-title="MIX", AXN
-http://rr.dens.tv/h/h09/index1.m3u8
 #EXTINF:-1 group-title="EDUCATIONS", Da Vinci Kids
 http://rr.dens.tv/h/h01/index1.m3u8
 #EXTINF:-1 group-title="MIX", ZEE BIOSKOP
