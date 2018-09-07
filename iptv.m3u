@@ -79,27 +79,27 @@ http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="INDO", TV9 NUSANTARA
 http://videostream.indostreamserver.com:1935/tv9/live/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAIN", KIX
+#EXTINF:-1 group-title="MIX", KIX
 http://210.210.155.35/uq2663/h/h07/02.m3u8
-#EXTINF:-1 group-title="ENTERTAIN", K+
+#EXTINF:-1 group-title="MIX", K+
 http://210.210.155.35/uq2663/h/h08/02.m3u8
-#EXTINF:-1 group-title="ENTERTAIN", AXN
+#EXTINF:-1 group-title="MIX", AXN
 http://210.210.155.35/uq2663/h/h09/02.m3u8
-#EXTINF:-1 group-title="ENTERTAIN", ANIMAX
+#EXTINF:-1 group-title="KIDS", ANIMAX
 http://210.210.155.35/uq2663/h/h18/02.m3u8
-#EXTINF:0 group-title="OTHERS", NHK
+#EXTINF:0 group-title="MIX", NHK
 http://210.210.155.35/uq2663/h/h23/02.m3u8
-#EXTINF:0 group-title="OTHERS", SBS
+#EXTINF:0 group-title="MIX", SBS
 http://210.210.155.35/uq2663/h/h28/02.m3u8
-#EXTINF:-1 group-title="ENTERTAIN", Da Vinci Kids
+#EXTINF:-1 group-title="KIDS", Da Vinci Kids
 http://210.210.155.35/uq2663/h/h01/02.m3u8
-#EXTINF:-1 group-title="ENTERTAIN", ANIPLUS
+#EXTINF:-1 group-title="KIDS", ANIPLUS
 http://210.210.155.35/uq2663/h/h02/02.m3u8
-#EXTINF:-1 group-title="OTHERS", TV5MONDE
+#EXTINF:-1 group-title="MIX", TV5MONDE
 http://210.210.155.35/qwr9ew/s/s24/02.m3u8
-#EXTINF:-1 group-title="ENTERTAIN", ZEE BIOSKOP
+#EXTINF:-1 group-title="MIX", ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/02.m3u8
-#EXTINF:-1 group-title="ENTERTAIN", CELESTIAL MOVIES
+#EXTINF:-1 group-title="MIX", CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/02.m3u8
-#EXTINF:-1 group-title="ENTERTAIN", THRILL
+#EXTINF:-1 group-title="MIX", THRILL
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8
