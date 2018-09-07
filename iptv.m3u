@@ -42,33 +42,33 @@ http://main-a.for-our.info:8081/tv1/ch1.m3u8
 #EXTINF:-1 group-title="SPORTS", WWE Network
 http://50.7.198.170:8081/abcd/wwe/playlist.m3u8
 #EXTINF:-1 group-title="INDO", TV ONE
-http://rr2.dens.tv/s/s02/index2.m3u8
+http://rr2.dens.tv/s/s02/index1.m3u8
 #EXTINF:-1 group-title="INDO", SCTV
-http://rr2.dens.tv/s/s03/index2.m3u8
+http://rr2.dens.tv/s/s03/index1.m3u8
 #EXTINF:-1 group-title="INDO", INDOSIAR
-http://rr2.dens.tv/s/s04/index2.m3u8
+http://rr2.dens.tv/s/s04/index1.m3u8
 #EXTINF:-1 group-title="INDO", TRANSTV
-http://rr2.dens.tv/s/s05/index2.m3u8
+http://rr2.dens.tv/s/s05/index1.m3u8
 #EXTINF:-1 group-title="INDO", TRANS7
-http://rr2.dens.tv/s/s06/index2.m3u8
+http://rr2.dens.tv/s/s06/index1.m3u8
 #EXTINF:-1 group-title="INDO", ANTV
-http://rr2.dens.tv/s/s07/index2.m3u8
+http://rr2.dens.tv/s/s07/index1.m3u8
 #EXTINF:-1 group-title="INDO", NET.
-http://rr2.dens.tv/s/s08/index2.m3u8
+http://rr2.dens.tv/s/s08/index1.m3u8
 #EXTINF:-1 group-title="INDO", KOMPASTV
-http://rr2.dens.tv/s/s09/index2.m3u8
+http://rr2.dens.tv/s/s09/index1.m3u8
 #EXTINF:-1 group-title="INDO", ElshintaTV
-http://rr2.dens.tv/s/s10/index2.m3u8
+http://rr2.dens.tv/s/s10/index1.m3u8
 #EXTINF:-1 group-title="INDO", TVRI
-http://rr2.dens.tv/s/s11/index2.m3u8
+http://rr2.dens.tv/s/s11/index1.m3u8
 #EXTINF:-1 group-title="INDO", RTV
-http://rr2.dens.tv/s/s12/index2.m3u8
+http://rr2.dens.tv/s/s12/index1.m3u8
 #EXTINF:-1 group-title="INDO", INTV 
-http://rr2.dens.tv/s/s46/index.m3u8
+http://rr2.dens.tv/s/s46/index1.m3u8
 #EXTINF:-1 group-title="INDO", TVRI SPORT
-http://rr2.dens.tv/s/s48/index2.m3u8
+http://rr2.dens.tv/s/s48/index1.m3u8
 #EXTINF:-1 group-title="INDO", METRO TV
-http://rr2.dens.tv/s/s49/index2.m3u8
+http://rr2.dens.tv/s/s49/index1.m3u8
 #EXTINF:-1 group-title="INDO", GLOBALTV
 http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
 #EXTINF:-1 group-title="INDO", MNCTV
@@ -78,16 +78,16 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="INDO", TV9 NUSANTARA
 http://videostream.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 group-title="MIX", KIX
-http://rr.dens.tv/h/h07/index2.m3u8
+http://rr.dens.tv/h/h07/index1.m3u8
 #EXTINF:-1 group-title="MIX", K+
-http://rr.dens.tv/h/h08/index2.m3u8
+http://rr.dens.tv/h/h08/index1.m3u8
 #EXTINF:-1 group-title="MIX", AXN
-http://rr.dens.tv/h/h09/index2.m3u8
+http://rr.dens.tv/h/h09/index1.m3u8
 #EXTINF:-1 group-title="EDUCATIONS", Da Vinci Kids
-http://rr.dens.tv/h/h01/index2.m3u8
+http://rr.dens.tv/h/h01/index1.m3u8
 #EXTINF:-1 group-title="MIX", ZEE BIOSKOP
-http://rr2.dens.tv/s/s32/index2.m3u8
+http://rr2.dens.tv/s/s32/index1.m3u8
 #EXTINF:-1 group-title="MIX", CELESTIAL MOVIES
-http://rr2.dens.tv/s/s33/index2.m3u8
+http://rr2.dens.tv/s/s33/index1.m3u8
 #EXTINF:-1 group-title="MIX", THRILL
-http://rr2.dens.tv/s/s34/index2.m3u8
+http://rr2.dens.tv/s/s34/index1.m3u8
