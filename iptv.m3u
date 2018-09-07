@@ -5,14 +5,6 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/02.m3u8
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/02.m3u8
 #EXTINF:-1 group-title="SPORTS", FOX SPORTS
 http://45.58.62.92:8080
-#EXTINF:-1 group-title="SPORTS", ASTRO ARENA
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1 group-title="SPORTS", ASTRO SUPER SPORT 1
-http://playbackn15.aotg-video.astro.com.my/CH1/master_AG4_8.m3u8
-#EXTINF:-1 group-title="SPORTS", ASTRO SUPER SPORT 2
-http://playbackn15.aotg-video.astro.com.my/CH2/master_AG5_8.m3u8
-#EXTINF:-1 group-title="SPORTS", ASTRO SUPER SPORT 3
-http://playbackn15.aotg-video.astro.com.my/CH3/master_AG6_8.m3u8
 #EXTINF:-1 group-title="SPORTS", SONY ESPN
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225805/index.m3u8
 #EXTINF:-1 group-title="SPORTS", SONY SIX SD
@@ -23,6 +15,14 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8
 #EXTINF:-1 group-title="SPORTS", SONY TEN 3 SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225933/index.m3u8
+#EXTINF:-1 group-title="SPORTS", ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:-1 group-title="SPORTS", ASTRO SUPER SPORT 1
+http://playbackn15.aotg-video.astro.com.my/CH1/master_AG4_8.m3u8
+#EXTINF:-1 group-title="SPORTS", ASTRO SUPER SPORT 2
+http://playbackn15.aotg-video.astro.com.my/CH2/master_AG5_8.m3u8
+#EXTINF:-1 group-title="SPORTS", ASTRO SUPER SPORT 3
+http://playbackn15.aotg-video.astro.com.my/CH3/master_AG6_8.m3u8
 #EXTINF:-1 group-title="THAILAND", PPTV HD 36
 http://main-a.for-our.info:8081/tv1/ch2.m3u8
 #EXTINF:-1 group-title="THAILAND", WORKPOINT 23
