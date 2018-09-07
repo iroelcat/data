@@ -85,16 +85,10 @@ http://210.210.155.35/uq2663/h/h08/02.m3u8
 http://210.210.155.35/uq2663/h/h09/02.m3u8
 #EXTINF:-1 group-title="KIDS", ANIMAX
 http://210.210.155.35/uq2663/h/h18/02.m3u8
-#EXTINF:0 group-title="MIX", NHK
-http://210.210.155.35/uq2663/h/h23/02.m3u8
-#EXTINF:0 group-title="MIX", SBS
-http://210.210.155.35/uq2663/h/h28/02.m3u8
 #EXTINF:-1 group-title="KIDS", Da Vinci Kids
 http://210.210.155.35/uq2663/h/h01/02.m3u8
 #EXTINF:-1 group-title="KIDS", ANIPLUS
 http://210.210.155.35/uq2663/h/h02/02.m3u8
-#EXTINF:-1 group-title="MIX", TV5MONDE
-http://210.210.155.35/qwr9ew/s/s24/02.m3u8
 #EXTINF:-1 group-title="MIX", ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/02.m3u8
 #EXTINF:-1 group-title="MIX", CELESTIAL MOVIES
