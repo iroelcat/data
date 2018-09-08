@@ -39,8 +39,6 @@ http://main-a.for-our.info:8081/tv1/ch10.m3u8
 http://main-a.for-our.info:8081/tv1/ch13.m3u8
 #EXTINF:-1 group-title="THAILAND", BBTV 7 HD
 http://main-a.for-our.info:8081/tv1/ch1.m3u8
-#EXTINF:-1 group-title="SPORTS", WWE Network
-http://50.7.198.170:8081/abcd/wwe/playlist.m3u8
 #EXTINF:-1 group-title="INDO", TV ONE
 http://rr2.dens.tv/s/s02/index1.m3u8
 #EXTINF:-1 group-title="INDO", SCTV
