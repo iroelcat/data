@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:-1,TV ONE
+http://210.210.155.35/qwr9ew/s/s02/02.m3u8
+#EXTINF:-1,SCTV
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+#EXTINF:-1,INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8
+#EXTINF:-1,TRANSTV
+http://210.210.155.35/qwr9ew/s/s05/02.m3u8
+#EXTINF:-1,TRANS7
+http://210.210.155.35/qwr9ew/s/s06/02.m3u8
+#EXTINF:-1,ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+#EXTINF:-1,NET.
+http://210.210.155.35/qwr9ew/s/s08/02.m3u8
+#EXTINF:-1,KOMPASTV
+http://210.210.155.35/qwr9ew/s/s09/02.m3u8
+#EXTINF:-1,ElshintaTV
+http://210.210.155.35/qwr9ew/s/s10/02.m3u8
+#EXTINF:-1,METRO TV
+http://210.210.155.35/qwr9ew/s/s11/02.m3u8
+#EXTINF:-1,RTV
+http://210.210.155.35/qwr9ew/s/s12/02.m3u8
+#EXTINF:-1,INTV 
+http://210.210.155.35/qwr9ew/s/s46/02.m3u8
+#EXTINF:-1,TVRI SPORT
+http://210.210.155.35/qwr9ew/s/s48/02.m3u8
+#EXTINF:-1,METRO TV
+http://210.210.155.35/qwr9ew/s/s49/02.m3u8
+#EXTINF:-1,GLOBALTV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
+#EXTINF:-1,MNCTV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
+#EXTINF:-1,CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1,TV9 NUSANTARA
+http://videostream.indostreamserver.com:1935/tv9/live/playlist.m3u8
+
+
+#EXTINF:-1, TV ONE
+http://rr2.dens.tv/s/s02/index1.m3u8
+#EXTINF:-1, SCTV
+http://rr2.dens.tv/s/s03/index1.m3u8
+#EXTINF:-1, INDOSIAR
+http://rr2.dens.tv/s/s04/index1.m3u8
+#EXTINF:-1, TRANSTV
+http://rr2.dens.tv/s/s05/index1.m3u8
+#EXTINF:-1, TRANS7
+http://rr2.dens.tv/s/s06/index1.m3u8
+#EXTINF:-1, ANTV
+http://rr2.dens.tv/s/s07/index1.m3u8
+#EXTINF:-1, NET.
+http://rr2.dens.tv/s/s08/index1.m3u8
+#EXTINF:-1, KOMPASTV
+http://rr2.dens.tv/s/s09/index1.m3u8
+#EXTINF:-1, ElshintaTV
+http://rr2.dens.tv/s/s10/index1.m3u8
+#EXTINF:-1, TVRI
+http://rr2.dens.tv/s/s11/index1.m3u8
+#EXTINF:-1, RTV
+http://rr2.dens.tv/s/s12/index1.m3u8
+#EXTINF:-1, INTV 
+http://rr2.dens.tv/s/s46/index1.m3u8
+#EXTINF:-1, TVRI SPORT
+http://rr2.dens.tv/s/s48/index1.m3u8
+#EXTINF:-1, METRO TV
+http://rr2.dens.tv/s/s49/index1.m3u8
+#EXTINF:-1, GLOBALTV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
+#EXTINF:-1, MNCTV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
+#EXTINF:-1, CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1, TV9 NUSANTARA
+http://videostream.indostreamserver.com:1935/tv9/live/playlist.m3u8
+
