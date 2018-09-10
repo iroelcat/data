@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, ANIMAL PLANET WORLD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/02.m3u8
+#EXTINF:-1, SONY BBC EARTH SD
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226068/index.m3u8
 #EXTINF:-1, DISCOVERY WORLD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/02.m3u8
 #EXTINF:-1, SONY ESPN
@@ -13,6 +15,18 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8
 #EXTINF:-1, SONY TEN 3 SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225933/index.m3u8
+#EXTINF:-1,  D SPORTS HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226484/index.m3u8
+#EXTINF:-1,  D SPORTS SD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
+#EXTINF:-1,  NEO SPORTS
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/index.m3u8
+#EXTINF:-1,  NEO PRIME
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:-1,  DD SPORTS
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226346/index.m3u8
+#EXTINF:-1,AXN
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226443/index.m3u8
 #EXTINF:-1, PPTV HD 36
 http://main-a.for-our.info:8081/tv1/ch2.m3u8
 
