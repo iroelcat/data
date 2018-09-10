@@ -1,81 +1,44 @@
 #EXTM3U
-#EXTINF:-1 group-title="EDUCATIONS", ANIMAL PLANET WORLD
+#EXTINF:-1, ANIMAL PLANET WORLD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/02.m3u8
-#EXTINF:-1 group-title="EDUCATIONS", DISCOVERY WORLD
+#EXTINF:-1, DISCOVERY WORLD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/02.m3u8
-#EXTINF:-1 group-title="SPORTS", FOX SPORTS
-http://45.58.62.92:8080
-#EXTINF:-1 group-title="SPORTS", SONY ESPN
+#EXTINF:-1, SONY ESPN
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225805/index.m3u8
-#EXTINF:-1 group-title="SPORTS", SONY SIX SD
+#EXTINF:-1, SONY SIX SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225827/index.m3u8
-#EXTINF:-1 group-title="SPORTS", SONY TEN 1 SD
+#EXTINF:-1, SONY TEN 1 SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:-1 group-title="SPORTS", SONY TEN 2 SD
+#EXTINF:-1, SONY TEN 2 SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:-1 group-title="SPORTS", SONY TEN 3 SD
+#EXTINF:-1, SONY TEN 3 SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225933/index.m3u8
-#EXTINF:-1 group-title="THAILAND", PPTV HD 36
+#EXTINF:-1, PPTV HD 36
 http://main-a.for-our.info:8081/tv1/ch2.m3u8
-#EXTINF:-1 group-title="THAILAND", WORKPOINT 23
+#EXTINF:-1, WORKPOINT 23
 http://main-a.for-our.info:8081/tv1/ch7.m3u8
-#EXTINF:-1 group-title="THAILAND", TRUE4U 24
+#EXTINF:-1, TRUE4U 24
 http://main-a.for-our.info:8081/tv1/ch4.m3u8
-#EXTINF:-1 group-title="THAILAND", MONO 29
+#EXTINF:-1, MONO 29
 http://main-a.for-our.info:8081/tv1/ch3.m3u8
-#EXTINF:-1 group-title="THAILAND", MCOT HD
+#EXTINF:-1, MCOT HD
 http://main-a.for-our.info:8081/tv2/ch7.m3u8
-#EXTINF:-1 group-title="THAILAND", ONE HD 31
+#EXTINF:-1, ONE HD 31
 http://main-a.for-our.info:8081/tv1/ch10.m3u8
-#EXTINF:-1 group-title="THAILAND", AMARIN 34 HD
+#EXTINF:-1, AMARIN 34 HD
 http://main-a.for-our.info:8081/tv1/ch13.m3u8
-#EXTINF:-1 group-title="THAILAND", BBTV 7 HD
+#EXTINF:-1, BBTV 7 HD
 http://main-a.for-our.info:8081/tv1/ch1.m3u8
-#EXTINF:-1 group-title="INDO", TV ONE
-http://rr2.dens.tv/s/s02/index1.m3u8
-#EXTINF:-1 group-title="INDO", SCTV
-http://rr2.dens.tv/s/s03/index1.m3u8
-#EXTINF:-1 group-title="INDO", INDOSIAR
-http://rr2.dens.tv/s/s04/index1.m3u8
-#EXTINF:-1 group-title="INDO", TRANSTV
-http://rr2.dens.tv/s/s05/index1.m3u8
-#EXTINF:-1 group-title="INDO", TRANS7
-http://rr2.dens.tv/s/s06/index1.m3u8
-#EXTINF:-1 group-title="INDO", ANTV
-http://rr2.dens.tv/s/s07/index1.m3u8
-#EXTINF:-1 group-title="INDO", NET.
-http://rr2.dens.tv/s/s08/index1.m3u8
-#EXTINF:-1 group-title="INDO", KOMPASTV
-http://rr2.dens.tv/s/s09/index1.m3u8
-#EXTINF:-1 group-title="INDO", ElshintaTV
-http://rr2.dens.tv/s/s10/index1.m3u8
-#EXTINF:-1 group-title="INDO", TVRI
-http://rr2.dens.tv/s/s11/index1.m3u8
-#EXTINF:-1 group-title="INDO", RTV
-http://rr2.dens.tv/s/s12/index1.m3u8
-#EXTINF:-1 group-title="INDO", INTV 
-http://rr2.dens.tv/s/s46/index1.m3u8
-#EXTINF:-1 group-title="INDO", TVRI SPORT
-http://rr2.dens.tv/s/s48/index1.m3u8
-#EXTINF:-1 group-title="INDO", METRO TV
-http://rr2.dens.tv/s/s49/index1.m3u8
-#EXTINF:-1 group-title="INDO", GLOBALTV
-http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
-#EXTINF:-1 group-title="INDO", MNCTV
-http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
-#EXTINF:-1 group-title="INDO", CNN INDONESIA
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="INDO", TV9 NUSANTARA
-http://videostream.indostreamserver.com:1935/tv9/live/playlist.m3u8
-#EXTINF:-1 group-title="MIX", KIX
+
+#EXTINF:-1, KIX
 http://rr.dens.tv/h/h07/index1.m3u8
-#EXTINF:-1 group-title="MIX", K+
+#EXTINF:-1, K+
 http://rr.dens.tv/h/h08/index1.m3u8
-#EXTINF:-1 group-title="EDUCATIONS", Da Vinci Kids
+#EXTINF:-1, Da Vinci Kids
 http://rr.dens.tv/h/h01/index1.m3u8
-#EXTINF:-1 group-title="MIX", ZEE BIOSKOP
+#EXTINF:-1, ZEE BIOSKOP
 http://rr2.dens.tv/s/s32/index1.m3u8
-#EXTINF:-1 group-title="MIX", CELESTIAL MOVIES
+#EXTINF:-1, CELESTIAL MOVIES
 http://rr2.dens.tv/s/s33/index1.m3u8
-#EXTINF:-1 group-title="MIX", THRILL
+#EXTINF:-1, THRILL
 http://rr2.dens.tv/s/s34/index1.m3u8
