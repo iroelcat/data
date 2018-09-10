@@ -16,15 +16,3 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225933/index.m3u8
 #EXTINF:-1, PPTV HD 36
 http://main-a.for-our.info:8081/tv1/ch2.m3u8
 
-#EXTINF:-1, KIX
-http://rr.dens.tv/h/h07/index1.m3u8
-#EXTINF:-1, K+
-http://rr.dens.tv/h/h08/index1.m3u8
-#EXTINF:-1, Da Vinci Kids
-http://rr.dens.tv/h/h01/index1.m3u8
-#EXTINF:-1, ZEE BIOSKOP
-http://rr2.dens.tv/s/s32/index1.m3u8
-#EXTINF:-1, CELESTIAL MOVIES
-http://rr2.dens.tv/s/s33/index1.m3u8
-#EXTINF:-1, THRILL
-http://rr2.dens.tv/s/s34/index1.m3u8
