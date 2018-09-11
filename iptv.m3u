@@ -7,10 +7,6 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/02.m3u8
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226068/index.m3u8
 #EXTINF:-1 group-title="EDUCATIONS", DISCOVERY WORLD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/02.m3u8
-#EXTINF:-1 group-title="EDUCATIONS", NATIONAL GEOGRAPHIC HD
-http://lihattv.us/?play=43681
-#EXTINF:-1 group-title="EDUCATIONS", NAT GEO WILD HD
-http://lihattv.com/?play=43682
 #EXTINF:-1 group-title="SPORTS", ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:-1 group-title="SPORTS", SONY ESPN
@@ -49,10 +45,6 @@ http://rr2.dens.tv/s/s32/index1.m3u8
 http://rr2.dens.tv/s/s33/index1.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENTS", THRILL
 http://rr2.dens.tv/s/s34/index1.m3u8
-#EXTINF:-1 group-title="KIDS", BIZNET KIDS HD
-http://lihattv.us/?play=43680
-#EXTINF:-1 group-title="KIDS", Kids Channel
-http://lihattv.com/?play=43215
 #EXTINF:-1 group-title="KIDS", Da Vinci Kids
 http://rr.dens.tv/h/h01/index1.m3u8
 #EXTINF:-1 group-title="KIDS", ANIPLUS
