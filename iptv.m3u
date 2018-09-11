@@ -45,11 +45,43 @@ http://rr2.dens.tv/s/s32/index1.m3u8
 http://rr2.dens.tv/s/s33/index1.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENTS", THRILL
 http://rr2.dens.tv/s/s34/index1.m3u8
-#EXTINF:-1 group-title="KIDS", Da Vinci Kids
+#EXTINF:-1 group-title="ENTERTAINMENTS", Da Vinci Kids
 http://rr.dens.tv/h/h01/index1.m3u8
-#EXTINF:-1 group-title="KIDS", ANIPLUS
+#EXTINF:-1 group-title="ENTERTAINMENTS", ANIPLUS
 http://rr.dens.tv/h/h02/index1.m3u8
 #EXTINF:-1 group-title="LOKAL", TV ONE
 http://rr2.dens.tv/s/s02/index1.m3u8
-#EXTINF:-1 group-title="LOKAL",CNN INDONESIA
+#EXTINF:-1 group-title="LOKAL", SCTV
+http://rr2.dens.tv/s/s03/index1.m3u8
+#EXTINF:-1 group-title="LOKAL", INDOSIAR
+http://rr2.dens.tv/s/s04/index1.m3u8
+#EXTINF:-1 group-title="LOKAL", TRANSTV
+http://rr2.dens.tv/s/s05/index1.m3u8
+#EXTINF:-1 group-title="LOKAL", TRANS7
+http://rr2.dens.tv/s/s06/index1.m3u8
+#EXTINF:-1 group-title="LOKAL", ANTV
+http://rr2.dens.tv/s/s07/index1.m3u8
+#EXTINF:-1 group-title="LOKAL", NET.
+http://rr2.dens.tv/s/s08/index1.m3u8
+#EXTINF:-1 group-title="LOKAL", KOMPASTV
+http://rr2.dens.tv/s/s09/index1.m3u8
+#EXTINF:-1 group-title="LOKAL", ElshintaTV
+http://rr2.dens.tv/s/s10/index1.m3u8
+#EXTINF:-1 group-title="LOKAL", TVRI
+http://rr2.dens.tv/s/s11/index1.m3u8
+#EXTINF:-1 group-title="LOKAL", RTV
+http://rr2.dens.tv/s/s12/index1.m3u8
+#EXTINF:-1 group-title="LOKAL", INTV 
+http://rr2.dens.tv/s/s46/index1.m3u8
+#EXTINF:-1 group-title="LOKAL", TVRI SPORT
+http://rr2.dens.tv/s/s48/index1.m3u8
+#EXTINF:-1 group-title="LOKAL", METRO TV
+http://rr2.dens.tv/s/s49/index1.m3u8
+#EXTINF:-1 group-title="LOKAL", GLOBALTV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
+#EXTINF:-1 group-title="LOKAL", MNCTV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
+#EXTINF:-1 group-title="LOKAL", CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="LOKAL", TV9 NUSANTARA
+http://videostream.indostreamserver.com:1935/tv9/live/playlist.m3u8
