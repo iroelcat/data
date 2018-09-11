@@ -53,6 +53,10 @@ http://rr2.dens.tv/s/s34/index1.m3u8
 http://lihattv.us/?play=43680
 #EXTINF:-1 group-title="KIDS", Kids Channel
 http://lihattv.com/?play=43215
+#EXTINF:-1 group-title="KIDS", Da Vinci Kids
+http://rr.dens.tv/h/h01/index1.m3u8
+#EXTINF:-1 group-title="KIDS", ANIPLUS
+http://rr.dens.tv/h/h02/index1.m3u8
 #EXTINF:-1 group-title="LOKAL", TV ONE
 http://rr2.dens.tv/s/s02/index1.m3u8
 #EXTINF:-1 group-title="LOKAL",CNN INDONESIA
