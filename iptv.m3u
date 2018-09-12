@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="EDUCATIONS", DISCOVERY
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/02.m3u8
 #EXTINF:-1 group-title="EDUCATIONS", ANIMAL PLANET WORLD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/02.m3u8
-#EXTINF:-1 group-title="EDUCATIONS", SONY BBC EARTH SD
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226068/index.m3u8
 #EXTINF:-1 group-title="EDUCATIONS", DISCOVERY WORLD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/02.m3u8
+#EXTINF:-1 group-title="EDUCATIONS", DISCOVERY
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/02.m3u8
+#EXTINF:-1 group-title="EDUCATIONS", SONY BBC EARTH SD
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226068/index.m3u8
 #EXTINF:-1 group-title="SPORTS", ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:-1 group-title="SPORTS", SONY ESPN
