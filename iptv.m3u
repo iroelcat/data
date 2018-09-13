@@ -7,75 +7,75 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/02.m3u8
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/02.m3u8
 #EXTINF:-1,SONY BBC EARTH SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226068/index.m3u8
-#EXTINF:-1 group-title="SPORTS",ASTRO ARENA
+#EXTINF:-1,ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1 group-title="SPORTS",SONY ESPN
+#EXTINF:-1,SONY ESPN
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225805/index.m3u8
-#EXTINF:-1 group-title="SPORTS",SONY SIX SD
+#EXTINF:-1,SONY SIX SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225827/index.m3u8
-#EXTINF:-1 group-title="SPORTS",SONY TEN 1 SD
+#EXTINF:-1,SONY TEN 1 SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:-1 group-title="SPORTS",SONY TEN 2 SD
+#EXTINF:-1,SONY TEN 2 SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:-1 group-title="SPORTS",SONY TEN 3 SD
+#EXTINF:-1,SONY TEN 3 SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225933/index.m3u8
-#EXTINF:-1 group-title="SPORTS",D SPORTS HD
+#EXTINF:-1,D SPORTS HD
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226484/index.m3u8
-#EXTINF:-1 group-title="SPORTS",D SPORTS SD
+#EXTINF:-1,D SPORTS SD
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
-#EXTINF:-1 group-title="SPORTS",NEO SPORTS
+#EXTINF:-1,NEO SPORTS
 http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/index.m3u8
-#EXTINF:-1 group-title="SPORTS",NEO PRIME
+#EXTINF:-1,NEO PRIME
 http://cshms4.airtel.tv/PLTV/88888888/224/3221225789/index.m3u8
-#EXTINF:-1 group-title="SPORTS",DD SPORTS
+#EXTINF:-1,DD SPORTS
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226346/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENTS",AXN
+#EXTINF:-1,AXN
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226443/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENTS",AXN (Opt 2)
+#EXTINF:-1,AXN (Opt 2)
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226443/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENTS",PPTV HD 36
+#EXTINF:-1,PPTV HD 36
 http://main-a.for-our.info:8081/tv1/ch2.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENTS",KIX
+#EXTINF:-1,KIX
 http://rr.dens.tv/h/h07/index1.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENTS",K+
+#EXTINF:-1,K+
 http://rr.dens.tv/h/h08/index1.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENTS",ZEE BIOSKOP
+#EXTINF:-1,ZEE BIOSKOP
 http://rr2.dens.tv/s/s32/index1.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENTS",CELESTIAL MOVIES
+#EXTINF:-1,CELESTIAL MOVIES
 http://rr2.dens.tv/s/s33/index1.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENTS",THRILL
+#EXTINF:-1,THRILL
 http://rr2.dens.tv/s/s34/index1.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENTS",Da Vinci Kids
+#EXTINF:-1,Da Vinci Kids
 http://rr.dens.tv/h/h01/index1.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENTS",ANIPLUS
+#EXTINF:-1,ANIPLUS
 http://rr.dens.tv/h/h02/index1.m3u8
-#EXTINF:-1 group-title="LOKAL",TV ONE
+#EXTINF:-1,TV ONE
 http://rr2.dens.tv/s/s02/index1.m3u8
-#EXTINF:-1 group-title="LOKAL",SCTV
+#EXTINF:-1,SCTV
 http://rr2.dens.tv/s/s03/index1.m3u8
-#EXTINF:-1 group-title="LOKAL",INDOSIAR
+#EXTINF:-1,INDOSIAR
 http://rr2.dens.tv/s/s04/index1.m3u8
-#EXTINF:-1 group-title="LOKAL",TRANSTV
+#EXTINF:-1,TRANSTV
 http://rr2.dens.tv/s/s05/index1.m3u8
-#EXTINF:-1 group-title="LOKAL",TRANS7
+#EXTINF:-1,TRANS7
 http://rr2.dens.tv/s/s06/index1.m3u8
-#EXTINF:-1 group-title="LOKAL",ANTV
+#EXTINF:-1,ANTV
 http://rr2.dens.tv/s/s07/index1.m3u8
-#EXTINF:-1 group-title="LOKAL",NET.
+#EXTINF:-1,NET.
 http://rr2.dens.tv/s/s08/index1.m3u8
-#EXTINF:-1 group-title="LOKAL",KOMPASTV
+#EXTINF:-1,KOMPASTV
 http://rr2.dens.tv/s/s09/index1.m3u8
-#EXTINF:-1 group-title="LOKAL",ElshintaTV
+#EXTINF:-1,ElshintaTV
 http://rr2.dens.tv/s/s10/index1.m3u8
-#EXTINF:-1 group-title="LOKAL",TVRI
+#EXTINF:-1,TVRI
 http://rr2.dens.tv/s/s11/index1.m3u8
-#EXTINF:-1 group-title="LOKAL",RTV
+#EXTINF:-1,RTV
 http://rr2.dens.tv/s/s12/index1.m3u8
-#EXTINF:-1 group-title="LOKAL",INTV 
+#EXTINF:-1,INTV 
 http://rr2.dens.tv/s/s46/index1.m3u8
-#EXTINF:-1 group-title="LOKAL",TVRI SPORT
+#EXTINF:-1,TVRI SPORT
 http://rr2.dens.tv/s/s48/index1.m3u8
-#EXTINF:-1 group-title="LOKAL",METRO TV
+#EXTINF:-1,METRO TV
 http://rr2.dens.tv/s/s49/index1.m3u8
-#EXTINF:-1 group-title="LOKAL",TV9 NUSANTARA
+#EXTINF:-1,TV9 NUSANTARA
 http://videostream.indostreamserver.com:1935/tv9/live/playlist.m3u8
