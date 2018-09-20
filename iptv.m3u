@@ -29,12 +29,6 @@ http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/index.m3u8
 http://cshms4.airtel.tv/PLTV/88888888/224/3221225789/index.m3u8
 #EXTINF:-1,DD SPORTS
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226346/index.m3u8
-#EXTINF:-1,AXN
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226443/index.m3u8
-#EXTINF:-1,AXN (Opt 2)
-http://mhms9.airtel.tv/PLTV/88888888/224/3221226443/index.m3u8
-#EXTINF:-1,PPTV HD 36
-http://main-a.for-our.info:8081/tv1/ch2.m3u8
 #EXTINF:-1,KIX
 http://rr.dens.tv/h/h07/index1.m3u8
 #EXTINF:-1,K+
