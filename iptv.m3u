@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, NATIONAL GEOGRAPHIC HD
+http://lihattv.us/?play=43681
+#EXTINF:-1, NAT GEO WILD HD
+http://lihattv.com/?play=43682
 #EXTINF:-1,ANIMAL PLANET WORLD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/02.m3u8
 #EXTINF:-1,DISCOVERY WORLD
@@ -7,6 +11,10 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/02.m3u8
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/02.m3u8
 #EXTINF:-1,SONY BBC EARTH SD
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226068/index.m3u8
+#EXTINF:-1, BIZNET KIDS HD
+http://lihattv.us/?play=43680
+#EXTINF:-1, DIAMOND KIDS
+http://119.235.249.60:1935/kids/live/playlist.m3u8
 #EXTINF:-1,ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:-1,SONY ESPN
