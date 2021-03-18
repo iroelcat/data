@@ -1,7 +1,7 @@
 #!/bin/bash
 apt -y -q install dos2unix
 rm -rf /tmp/domain.txt
-curl -q -s "https://github.com/iroelcat/blacklist/raw/master/domains" | sed 's/\*.//g' | tr '[:upper:]' '[:lower:]' | sed '/\(\/\|:\|=\|\.\.\|\.$\|[0-9]\{1,3\}.[0-9]\{1,3\}.[0-9]\{1,3\}.[0-9]\{1,3\}\($\|\s\)\|^$\|\*\)/d' | perl -nle 'print if m{^[[:ascii:]]+$}' > /tmp/domain.txt;
+curl -q -s "https://raw.githubusercontent.com/iroelcat/blacklist/master/domains" | sed 's/\*.//g' | tr '[:upper:]' '[:lower:]' | sed '/\(\/\|:\|=\|\.\.\|\.$\|[0-9]\{1,3\}.[0-9]\{1,3\}.[0-9]\{1,3\}.[0-9]\{1,3\}\($\|\s\)\|^$\|\*\)/d' | perl -nle 'print if m{^[[:ascii:]]+$}' > /tmp/domain.txt;
 dos2unix /tmp/domain.txt;
 cat /tmp/domain.txt | sort | uniq > /tmp/domain.txt.tmp
 rm -rf /tmp/domain.txt
