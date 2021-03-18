@@ -1,4 +1,5 @@
 #!/bin/bash
+pihole -g
 pihole disable
 service pihole-FTL stop
 rm /etc/pihole/pihole-FTL.log
