@@ -7,6 +7,5 @@ rm /var/log/pihole.log
 service pihole-FTL start
 pihole -f
 pihole arpflush
-pihole enable;
-done
+pihole enable
 systemctl restart dnscrypt-proxy
