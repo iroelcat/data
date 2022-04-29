@@ -7,6 +7,7 @@ googletagservices.com
 www.googletagservices.com
 googleads.g.doubleclick.net
 www.googleads.g.doubleclick.net
+doubleclick.net
 ad.doubleclick.net
 clickserve.dartsearch.net
 dartsearch.net
@@ -25,6 +26,7 @@ s.shopify.com
 ||www.googletagservices.com^
 ||googleads.g.doubleclick.net^
 ||www.googleads.g.doubleclick.net^
+||doubleclick.net^
 ||ad.doubleclick.net^
 ||clickserve.dartsearch.net^
 ||dartsearch.net^
